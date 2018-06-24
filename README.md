@@ -42,6 +42,7 @@
 * 推荐使用 10.13.5 镜像    
     * [10.13.5镜像](https://blog.daliansky.net/macOS-High-Sierra-10.13.5-(17F77)-Release-Version-with-Clover-4512-original-mirror.html)
     * 制作完安装盘 把U盘的EFI删除掉，换上这个库的EFI。
+    * EFI 下载 [EFI Release](https://github.com/whtiehack/XiaoMi-Air/releases)
 
 
 具体安装流程请参考详细的小米Pro安装教程（中文版）[macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html).
@@ -50,7 +51,7 @@
 
 目前的解决方式是使用 USB WIFI。
 
-* 支持小米随身WIFI 驱动在 Drivers目录 `RT2870-小米wifi驱动.zip` 有详细的使用说明
+* 支持小米随身WIFI 驱动在 Drivers目录 `RT2870-小米wifi驱动.zip`[下载](https://github.com/whtiehack/XiaoMi-Air/raw/master/Drivers/RT2870-%E5%B0%8F%E7%B1%B3wifi%E9%A9%B1%E5%8A%A8.zip) 有详细的使用说明
 * 其它版本的WIFI 可以自己找驱动，或者淘宝免驱的USB WIFI
 
 ## 开启 HIDPI 
@@ -62,7 +63,7 @@
 简单流程:
 
 * 打开 终端 `Terminal.app`
-* 输入 cd 
+* 输入 cd 
 * 把 你下载的 `HIDPI for Mi Air` 解压后的文件夹拖 终端。
 * 按回车
 * 输入 `./hidpi.sh` 回车
@@ -73,7 +74,7 @@
 
 待添加。。。
 
-iMessageDebug `imessage_debug` 下载 [iMessageDebug]()
+iMessageDebug `imessage_debug` 下载 [iMessageDebug](https://github.com/whtiehack/XiaoMi-Air/raw/master/iMessageDebug.zip)
 
 ## 支持与讨论
 
