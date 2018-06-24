@@ -19,6 +19,7 @@
 
 * 自带蓝牙与WIFI不支持。蓝牙已屏蔽
 * 独显不支持。已屏蔽
+* 集显还需要优化。打开启动台偶尔有掉帧的感觉。
 
 
 ## 支持列表
@@ -71,6 +72,8 @@
 ## 洗白（正常使用`iMessage`,`FaceTime`）
 
 待添加。。。
+
+iMessageDebug `imessage_debug` 下载 [iMessageDebug]()
 
 ## 支持与讨论
 
