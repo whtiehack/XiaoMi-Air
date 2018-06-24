@@ -12,6 +12,7 @@
 * 完美电源管理
 * 集显完美，界面没有任何卡顿。
 * iMessage,FaceTime 正常登录
+* Siri 正常使用。
 * 声卡麦克风完美.
 
 
@@ -32,7 +33,12 @@
 
 ## 已测试的版本
 
-> 小米笔记本 Air 13.3 不带指纹版本   i5-6200U 
+* 小米笔记本 Air 13.3 不带指纹版本   i5-6200U 
+    * 经测试，MAC系统续航3小时，win10续航2小时。 （惊喜）
+    * ![942d2425-669e-4d09-9ba9-5dc4b8ab087e](https://user-images.githubusercontent.com/12741016/41816633-99064fd4-77bc-11e8-94c7-0bca09d0796f.png)
+    * 
+    * <img width="254" alt="wx20180624-145516 2x" src="https://user-images.githubusercontent.com/12741016/41816757-9bb89b6c-77bf-11e8-8392-5a5c731e67a9.png">
+    
 
 
 
@@ -52,6 +58,8 @@
 目前的解决方式是使用 USB WIFI。
 
 * 支持小米随身WIFI 驱动在 Drivers目录 `RT2870-小米wifi驱动.zip`[下载](https://github.com/whtiehack/XiaoMi-Air/raw/master/Drivers/RT2870-%E5%B0%8F%E7%B1%B3wifi%E9%A9%B1%E5%8A%A8.zip) 有详细的使用说明
+    * <img width="830" alt="wx20180624-150423 2x" src="https://user-images.githubusercontent.com/12741016/41816774-ef3dc064-77bf-11e8-978e-388e5f88e0cc.png">
+
 * 其它版本的WIFI 可以自己找驱动，或者淘宝免驱的USB WIFI
 
 ## 开启 HIDPI 
