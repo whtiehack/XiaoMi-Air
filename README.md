@@ -11,13 +11,14 @@
     > 单指双击拖拽
 * 完美电源管理
 * 集显完美，界面没有任何卡顿。
-* 
+* iMessage,FaceTime 正常登录
+* 声卡麦克风完美.
 
 
 ## 已知问题
 
 * 自带蓝牙与WIFI不支持。蓝牙已屏蔽
-* 独显支持。已屏蔽
+* 独显不支持。已屏蔽
 
 
 ## 支持列表
@@ -51,11 +52,38 @@
 * 支持小米随身WIFI 驱动在 Drivers目录 `RT2870-小米wifi驱动.zip` 有详细的使用说明
 * 其它版本的WIFI 可以自己找驱动，或者淘宝免驱的USB WIFI
 
+## 开启 HIDPI 
+
+使用 `HIDPI for Mi Air` 完美解决。
+
+使用方法在 `HIDPI for Mi Air` 内的README 内。
+
+简单流程:
+
+* 打开 终端 `Terminal.app`
+* 输入 cd 
+* 把 你下载的 `HIDPI for Mi Air` 解压后的文件夹拖 终端。
+* 按回车
+* 输入 `./hidpi.sh` 回车
+* 输入 `.install.command` 回车
+
+
+## 洗白（正常使用`iMessage`,`FaceTime`）
+
+待添加。。。
+
 ## 支持与讨论
 
-* QQ群:
+* 小米PRO黑苹果 QQ群:
   * 247451054 [小米PRO黑苹果高级群](http://shang.qq.com/wpa/qunwpa?idkey=6223ea12a7f7efe58d5972d241000dd59cbd0260db2fdede52836ca220f7f20e)
   * 137188006 [小米PRO黑苹果](http://shang.qq.com/wpa/qunwpa?idkey=c17e190b9466a73cf12e8caec36e87124fce9e231a895353ee817e9921fdd74e)
 
 > 入群口令 `blog.daliansky.net`
+
+* 小米黑苹果 QQ群:
+    * 667951858
+
+## EFI完全参考了 Xiaomi Pro 的 EFI
+
+感谢 [stevezhengshiqi的小米Pro EFI](https://github.com/stevezhengshiqi/XiaoMi-Pro)
 
