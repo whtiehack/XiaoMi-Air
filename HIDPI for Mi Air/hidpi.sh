@@ -135,6 +135,9 @@ cat > "$dpiFile" <<-\HIDPI
                 <data>
                 AAALQAAABlQA
                 </data>
+                <data>
+                AAAFVgAAAwAA
+                </data>
             </array>
         <key>target-default-ppmm</key>
             <real>10.1510574</real>
