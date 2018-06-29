@@ -2,21 +2,26 @@
 
 让你的小米AIR笔记本吃上黑苹果
 
-# 本项目还未整理完。
 
 ## 完美度
 
 * 触摸板基本满足日常使用
+    * 触摸板灵敏度很完美。
     > 单指轻点
     > 双指轻点（右键）
     > 单指双击拖拽
 * 完美电源管理
+    * 插入电源亮度提高，拨出电源亮度降低. 
+    * 续航与win10下没有什么差别，个人感觉MAC下续航还有增加。
 * 正常睡眠，正常唤醒，唤醒后USB正常
     * 需要取消勾选节能中的`如果可能，使硬盘进入睡眠`。
 * 集显完美，界面没有任何卡顿。
 * iMessage,FaceTime 正常登录
 * Siri 正常使用。
 * 声卡麦克风完美.
+* HiDPI 正常
+
+
 
 
 ## 已知问题
@@ -28,22 +33,20 @@
     * 就是没有小太阳 F4 F5 调节亮度无用`F14 F15` 按键不识别
     * 解决方法： [调整快捷键](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1737010&highlight=)
         > 系统偏好设置-键盘-快捷键  把亮度调节快捷键改成 ctrl+,（ctrl+<），ctrl+.（ctrl+>）即可
-* 触摸板不支持多手势.
+* 触摸板不支持多手势.不支持放大缩小
 * 睡眠可以正常唤醒，但是唤醒以后USB设备都不识别了。
     * 目前发现的解决方式，需要取消勾选节能中的`如果可能，使硬盘进入睡眠`。
 
 ## 支持列表
 
-* 支持10.13 
+* 支持10.13.5
 * CPU为原生支持
-* 显卡仿冒支持，platform-id为0x19160000，注入信息通过 `/CLOVER/ACPI/patched/SSDT-Config.aml` 加载
-* 声卡为ALC298，采用AppleALC仿冒，layout-id为99，注入信息位于 `/CLOVER/ACPI/patched/SSDT-Config.aml`
-* 其他ACPI补丁修复使用hotpatch方式，文件位于 `/CLOVER/ACPI/patched` 中
+* 显卡仿冒支持，platform-id为0x191b0000，注入信息通过 `config.plist` 注入
 
 ## 已测试的版本
 
 * 小米笔记本 Air 13.3 不带指纹版本   i5-6200U 
-    * 经测试，MAC系统续航3小时，win10续航2小时。 （惊喜）
+    * 经测试，续航能力没有问题。
     * ![942d2425-669e-4d09-9ba9-5dc4b8ab087e](https://user-images.githubusercontent.com/12741016/41816633-99064fd4-77bc-11e8-94c7-0bca09d0796f.png)
     * 
     * <img width="254" alt="wx20180624-145516 2x" src="https://user-images.githubusercontent.com/12741016/41816757-9bb89b6c-77bf-11e8-8392-5a5c731e67a9.png">
@@ -86,10 +89,12 @@
 * 输入 `./hidpi.sh` 回车
 * 输入 `.install.command` 回车
 
+* * <img width="684" alt="2018-06-29 23 23 22" src="https://user-images.githubusercontent.com/12741016/42100766-ab926918-7bf3-11e8-957c-a83419bcb23e.png">
+
 
 ## 洗白（正常使用`iMessage`,`FaceTime`）
 
-待添加。。。
+* 教程可以看这里。[教程](http://www.vmengblog.com/hackmacimessage/)
 
 iMessageDebug `imessage_debug` 下载 [iMessageDebug](https://github.com/whtiehack/XiaoMi-Air/raw/master/iMessageDebug.zip)
 
