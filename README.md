@@ -19,6 +19,7 @@
 * iMessage,FaceTime 正常登录
 * Siri 正常使用。
 * 声卡麦克风完美.
+    * 耳机需要把声音平衡调到右。
 * HiDPI 正常
 
 
@@ -41,7 +42,7 @@
 
 * 支持10.13.5
 * CPU为原生支持
-* 显卡仿冒支持，platform-id为0x191b0000，注入信息通过 `config.plist` 注入
+* 显卡仿冒支持，platform-id为0x19160000，注入信息通过 `config.plist` 注入
 
 ## 已测试的版本
 
@@ -95,6 +96,7 @@
 ## 洗白（正常使用`iMessage`,`FaceTime`）
 
 * 教程可以看这里。[教程](http://www.vmengblog.com/hackmacimessage/)
+
 
 iMessageDebug `imessage_debug` 下载 [iMessageDebug](https://github.com/whtiehack/XiaoMi-Air/raw/master/iMessageDebug.zip)
 
