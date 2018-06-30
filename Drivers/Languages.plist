@@ -1,0 +1,2061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>en_1</key>
+	<array>
+		<dict>
+			<key>AboutPage - Date</key>
+			<string>Date : </string>
+			<key>AboutPage - EEPROM</key>
+			<string>EEPROM</string>
+			<key>AboutPage - MAC Address</key>
+			<string>MAC Address</string>
+			<key>AboutPage - NIC Driver</key>
+			<string>NIC Driver</string>
+			<key>AboutPage - Version</key>
+			<string>Version : </string>
+			<key>AboutPage - Wireless Utility</key>
+			<string>Wireless Utility</string>
+			<key>Advanced - Apply</key>
+			<string>APPLY</string>
+			<key>Advanced - Enable Tx Burst</key>
+			<string>Enable TX Burst</string>
+			<key>Advanced - Enable PSP XLink</key>
+			<string>Enable PSP XLink</string>
+			<key>Advanced - Country Region Code</key>
+			<string>Select Your Country Region Code</string>
+			<key>Advanced - Msg1</key>
+			<string>If there is a channel conflict in profile, then it will change to default channel.</string>
+			<key>Advanced - Radio Off</key>
+			<string>Radio Switch</string>
+			<key>Advanced - Radio On</key>
+			<string>Radio Switch</string>
+			<key>Advanced - Tx Rate</key>
+			<string>TX Rate</string>
+			<key>Advanced - Wireless Mode</key>
+			<string>Wireless Mode</string>
+			<key>HiddenSSID - Cancel</key>
+			<string>CANCEL</string>
+			<key>HiddenSSID - Msg1</key>
+			<string>Please enter SSID.</string>
+			<key>HiddenSSID - OK</key>
+			<string>OK</string>
+			<key>HiddenSSID - SSID</key>
+			<string>This AP use hidden SSID, please manually configure SSID.</string>
+			<key>LinkStatusPage -  Link Speed Rx</key>
+			<string>RX</string>
+			<key>LinkStatusPage - Current Channel</key>
+			<string>Current Channel</string>
+			<key>LinkStatusPage - Link Quality</key>
+			<string>Link Quality</string>
+			<key>LinkStatusPage - Link Speed</key>
+			<string>Link Speed (Mbps)</string>
+			<key>LinkStatusPage - Link Speed Tx</key>
+			<string>TX</string>
+			<key>LinkStatusPage - Noise Level</key>
+			<string>Noise Level</string>
+			<key>LinkStatusPage - Status</key>
+			<string>Status</string>
+			<key>LinkStatusPage - Strength1</key>
+			<string>Signal Strength 1</string>
+			<key>LinkStatusPage - Strength2</key>
+			<string>Signal Strength 2</string>
+			<key>LinkStatusPage - Strength3</key>
+			<string>Signal Strength 3</string>
+			<key>LinkStatusPage - Throughput</key>
+			<string>Throughput (Kbps)</string>
+			<key>LinkStatusPage - Throughput Rx</key>
+			<string>Rx</string>
+			<key>LinkStatusPage - Throughput Tx</key>
+			<string>Tx</string>
+			<key>LinkStatusPage - HT Info</key>
+			<string>HT Info</string>
+			<key>MainMenu - Itme1</key>
+			<string>About WirelessUtility</string>
+			<key>MainMenu - Itme2</key>
+			<string>Preferences...</string>
+			<key>MainMenu - Itme3</key>
+			<string>Hide WirelessUtility</string>
+			<key>MainMenu - Itme4</key>
+			<string>Show All</string>
+			<key>MainMenu - Itme5</key>
+			<string>Quit WirelessUtility</string>
+			<key>MainWindow - About</key>
+			<string>About</string>
+			<key>MainWindow - Advances</key>
+			<string>Advanced</string>
+			<key>MainWindow - Link Status</key>
+			<string>Link Status</string>
+			<key>MainWindow - Profile</key>
+			<string>Profile</string>
+			<key>MainWindow - Site Survey</key>
+			<string>Site Survey</string>
+			<key>MainWindow - Statistics</key>
+			<string>Statistics</string>
+			<key>MainWindow - Title</key>
+			<string>Wireless Utility</string>
+			<key>MainWindow - WPS</key>
+			<string>WPS</string>
+			<key>Profile Setting - Adhoc</key>
+			<string>802.11 Ad Hoc</string>
+			<key>Profile Setting - Authentication Security</key>
+			<string>Authentication &amp; Security</string>
+			<key>Profile Setting - CAM</key>
+			<string>CAM (Constantly Awake Mode)</string>
+			<key>Profile Setting - Channel</key>
+			<string>Channel</string>
+			<key>Profile Setting - Fragment Threshold</key>
+			<string>Fragment Threshold</string>
+			<key>Profile Setting - Infrastructure</key>
+			<string>Infrastructure</string>
+			<key>Profile Setting - Msg1</key>
+			<string>Please keyin the profile name</string>
+			<key>Profile Setting - Msg2</key>
+			<string>Please keyin the SSID</string>
+			<key>Profile Setting - Msg3</key>
+			<string>There is a same profile name existing.</string>
+			<key>Profile Setting - Msg4</key>
+			<string>Do you want to over write it?</string>
+			<key>Profile Setting - Name</key>
+			<string>Profile Name</string>
+			<key>Profile Setting - Network Type</key>
+			<string>Network Type</string>
+			<key>Profile Setting - PSM</key>
+			<string>Power Saving Mode</string>
+			<key>Profile Setting - RTS Threshold</key>
+			<string>RTS Threshold</string>
+			<key>Profile Setting - SSID</key>
+			<string>SSID</string>
+			<key>Profile Setting - Save Mode</key>
+			<string>Power Saving Mode</string>
+			<key>Profile Setting - System Configuation</key>
+			<string>System Configuration</string>
+			<key>Profile Setting - Tx Power</key>
+			<string>Tx Power</string>
+			<key>ProfilePage - Activate</key>
+			<string>ACTIVATE</string>
+			<key>ProfilePage - Add</key>
+			<string>ADD</string>
+			<key>ProfilePage - Authentication</key>
+			<string>Authentication</string>
+			<key>ProfilePage - Channel</key>
+			<string>Channel</string>
+			<key>ProfilePage - Delete</key>
+			<string>DELETE</string>
+			<key>ProfilePage - Edit</key>
+			<string>EDIT</string>
+			<key>ProfilePage - Encryption</key>
+			<string>Encryption</string>
+			<key>ProfilePage - Msg1</key>
+			<string>No selected item</string>
+			<key>ProfilePage - Msg2</key>
+			<string>Please select an item to delete.</string>
+			<key>ProfilePage - Msg3</key>
+			<string>Please select an item to edit.</string>
+			<key>ProfilePage - Msg4</key>
+			<string>Device not exist.</string>
+			<key>ProfilePage - Msg5</key>
+			<string>Please insert your Network Card and then set profile.</string>
+			<key>ProfilePage - Name</key>
+			<string>Profile</string>
+			<key>ProfilePage - Network</key>
+			<string>Network Type</string>
+			<key>ProfilePage - Profile List</key>
+			<string>----------------------------------- Profile List -----------------------------------</string>
+			<key>ProfilePage - SSID</key>
+			<string>SSID</string>
+			<key>SiteSurveyPage - AP List</key>
+			<string>-------------------------------------- AP List --------------------------------------</string>
+			<key>SiteSurveyPage - Add Profile</key>
+			<string>ADD PROFILE</string>
+			<key>SiteSurveyPage - Authentication</key>
+			<string>Authentication</string>
+			<key>SiteSurveyPage - BSSID</key>
+			<string>BSSID</string>
+			<key>SiteSurveyPage - Channel</key>
+			<string>Channel</string>
+			<key>SiteSurveyPage - Connect</key>
+			<string>CONNECT</string>
+			<key>SiteSurveyPage - Encryption</key>
+			<string>Encryption</string>
+			<key>SiteSurveyPage - Msg1</key>
+			<string>No selected item</string>
+			<key>SiteSurveyPage - Msg2</key>
+			<string>Please select an item to connect to.</string>
+			<key>SiteSurveyPage - Msg3</key>
+			<string>WPA-Enterprise / WPA2-Enterprise isn&apos;t supported yet!!!</string>
+			<key>SiteSurveyPage - Msg4</key>
+			<string>Connected</string>
+			<key>SiteSurveyPage - Network</key>
+			<string>Network Type</string>
+			<key>SiteSurveyPage - Rescan</key>
+			<string>RESCAN</string>
+			<key>SiteSurveyPage - SSID</key>
+			<string>SSID</string>
+			<key>SiteSurveyPage - Signal</key>
+			<string>Signal</string>
+			<key>StatisticsPage - Counters</key>
+			<string>RESET COUNTERS</string>
+			<key>StatisticsPage - DFR</key>
+			<string>Duplicate Frames Received</string>
+			<key>StatisticsPage - FDDTO</key>
+			<string>Frames Dropped Due To Out-of-Resource</string>
+			<key>StatisticsPage - FFTRAAAR</key>
+			<string>Frames Fail To Receive ACK After All Retries</string>
+			<key>StatisticsPage - FRS</key>
+			<string>Frames Received Successfully</string>
+			<key>StatisticsPage - FRWCE</key>
+			<string>Frames Received With CRC Error</string>
+			<key>StatisticsPage - FTS</key>
+			<string>Frames Transmitted Successfully</string>
+			<key>StatisticsPage - FTSAR</key>
+			<string>Frames Transmitted Successfully After Retry(s)</string>
+			<key>StatisticsPage - FTSWR</key>
+			<string>Frames Transmitted Successfully Without Retry</string>
+			<key>StatisticsPage - RFFTRC</key>
+			<string>RTS Frames Fail To Receive CTS</string>
+			<key>StatisticsPage - RFSRC</key>
+			<string>RTS Frames Successfully Receive CTS</string>
+			<key>StatisticsPage - Receive</key>
+			<string>-- Receive Statistics --</string>
+			<key>StatisticsPage - Transmit</key>
+			<string>-- Transmit Statistics --</string>
+			<key>WEP Setting - ASCII</key>
+			<string>ASCII</string>
+			<key>WEP Setting - Authentication Type</key>
+			<string>Authentication Type</string>
+			<key>WEP Setting - Cancel</key>
+			<string>CANCEL</string>
+			<key>WEP Setting - Encryption Type</key>
+			<string>Encryption Type</string>
+			<key>WEP Setting - Hexadecimal</key>
+			<string>Hexadecimal</string>
+			<key>WEP Setting - Key1</key>
+			<string>Key #1</string>
+			<key>WEP Setting - Key2</key>
+			<string>Key #2</string>
+			<key>WEP Setting - Key3</key>
+			<string>Key #3</string>
+			<key>WEP Setting - Key4</key>
+			<string>Key #4</string>
+			<key>WEP Setting - Msg1</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key should be more than 8 characters.</string>
+			<key>WEP Setting - Msg10</key>
+			<string>Invalid WEP key 4 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg11</key>
+			<string>Invalid WEP key 4 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg2</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key used key field should be 8~63 ASCII characters or 64 HEX characters.</string>
+			<key>WEP Setting - Msg3</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key should be less than 64 characters.</string>
+			<key>WEP Setting - Msg4</key>
+			<string>Invalid WEP key 1 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg5</key>
+			<string>Invalid WEP key 1 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg6</key>
+			<string>Invalid WEP key 2 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg7</key>
+			<string>Invalid WEP key 2 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg8</key>
+			<string>Invalid WEP key 3 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg9</key>
+			<string>Invalid WEP key 3 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - OK</key>
+			<string>OK</string>
+			<key>WEP Setting - WEP Setting</key>
+			<string>WEP SETTING</string>
+			<key>WEP Setting - WPA Pre-Shared Key</key>
+			<string>WPA Pre-Shared Key</string>
+			<key>WEP Setting - Open</key>
+			<string>Open</string>
+			<key>WEP Setting - Shared</key>
+			<string>Shared</string>
+			<key>WEP Setting - NONE</key>
+			<string>NONE</string>
+			<key>WPS Profile - Authentication Type</key>
+			<string>Authentication Type</string>
+			<key>WPS Profile - BSSID</key>
+			<string>BSSID</string>
+			<key>WPS Profile - Cancel</key>
+			<string>CANCEL</string>
+			<key>WPS Profile - Encryption Type</key>
+			<string>Encryption Type</string>
+			<key>WPS Profile - Key Index</key>
+			<string>Key Index</string>
+			<key>WPS Profile - Key Length</key>
+			<string>Key Length</string>
+			<key>WPS Profile - Key Material</key>
+			<string>Key Material</string>
+			<key>WPS Profile - Msg1</key>
+			<string>Your configuration is not secure</string>
+			<key>WPS Profile - Msg2</key>
+			<string>Invalid WEP Key length. WEP Key should be 5 ascii characters</string>
+			<key>WPS Profile - Msg3</key>
+			<string>Invalid WEP Key length. WEP Key should be 10 hex digits</string>
+			<key>WPS Profile - Msg4</key>
+			<string>Invalid WEP Key length. WEP Key should be 13 ascii characters</string>
+			<key>WPS Profile - Msg5</key>
+			<string>Invalid WEP Key length. WEP Key should be 26 hex digits</string>
+			<key>WPS Profile - Msg6</key>
+			<string>Invalid WPA Pre-Shared key. WPA-PSK use field should be 64 hex digits.</string>
+			<key>WPS Profile - OK</key>
+			<string>OK</string>
+			<key>WPS Status - AP Setup Locked</key>
+			<string>AP Setup Locked</string>
+			<key>WPS Status - Authentication Type</key>
+			<string>Authentication Type</string>
+			<key>WPS Status - Config Methods</key>
+			<string>Config Methods</string>
+			<key>WPS Status - Device Password ID</key>
+			<string>Device Password ID</string>
+			<key>WPS Status - Encryption Type</key>
+			<string>Encryption Type</string>
+			<key>WPS Status - OK</key>
+			<string>OK</string>
+			<key>WPS Status - RF Bands</key>
+			<string>RF Bands</string>
+			<key>WPS Status - Selected Register</key>
+			<string>Selected Register</string>
+			<key>WPS Status - State</key>
+			<string>State</string>
+			<key>WPS Status - UUIDE</key>
+			<string>UUID-E</string>
+			<key>WPS Status - Version</key>
+			<string>Version</string>
+			<key>WPSPage - AP Authentication</key>
+			<string>Authentication</string>
+			<key>WPSPage - AP BSSID</key>
+			<string>BSSID</string>
+			<key>WPSPage - AP Channel</key>
+			<string>Channel</string>
+			<key>WPSPage - AP Encryption</key>
+			<string>Encryption</string>
+			<key>WPSPage - AP ID</key>
+			<string>ID</string>
+			<key>WPSPage - AP List</key>
+			<string>---------------------------- WPS AP List ----------------------------</string>
+			<key>WPSPage - AP SSID</key>
+			<string>SSID</string>
+			<key>WPSPage - Associate IE</key>
+			<string>WPS associate IE</string>
+			<key>WPSPage - Automatically Select The AP</key>
+			<string>Automatically select the AP</string>
+			<key>WPSPage - Config Mode</key>
+			<string>Config Mode</string>
+			<key>WPSPage - Connect</key>
+			<string>Connect</string>
+			<key>WPSPage - Delete</key>
+			<string>Delete</string>
+			<key>WPSPage - Disconnect</key>
+			<string>Disconnect</string>
+			<key>WPSPage - Enrollee</key>
+			<string>Enrollee</string>
+			<key>WPSPage - Export Profile</key>
+			<string>Export Profile</string>
+			<key>WPSPage - Information</key>
+			<string>Information</string>
+			<key>WPSPage - Msg1</key>
+			<string>No selected item</string>
+			<key>WPSPage - Msg2</key>
+			<string>Please select an item.</string>
+			<key>WPSPage - Msg3</key>
+			<string>Invalid Pin Code.</string>
+			<key>WPSPage - Msg4</key>
+			<string>Please re-enter it.</string>
+			<key>WPSPage - Msg5</key>
+			<string>Pin Code error.</string>
+			<key>WPSPage - Pin Code</key>
+			<string>Pin Code</string>
+			<key>WPSPage - Probe IE</key>
+			<string>WPS probe IE</string>
+			<key>WPSPage - Profile Authentication</key>
+			<string>Authentication</string>
+			<key>WPSPage - Profile Detail</key>
+			<string>Profile Detail</string>
+			<key>WPSPage - Profile Encryption</key>
+			<string>Encryption</string>
+			<key>WPSPage - Profile List</key>
+			<string>---------------------------- WPS Profile List ----------------------------</string>
+			<key>WPSPage - Profile Name</key>
+			<string>Profile</string>
+			<key>WPSPage - Profile SSID</key>
+			<string>SSID</string>
+			<key>WPSPage - Registrar</key>
+			<string>Registrar</string>
+			<key>WPSPage - Renew</key>
+			<string>Renew</string>
+			<key>WPSPage - Rescan</key>
+			<string>Rescan</string>
+			<key>WPSPage - Rotate</key>
+			<string>Rotate</string>
+			<key>Setting 8021x - Title</key>
+			<string>802.1x</string>
+			<key>Setting 8021x - EAP Method</key>
+			<string>EAP Method</string>
+			<key>Setting 8021x - Tunnel Method</key>
+			<string>Tunnel Method</string>
+			<key>Setting 8021x - Session Resumption</key>
+			<string>Session Resumption</string>
+			<key>Setting 8021x - ID</key>
+			<string>ID</string>
+			<key>Setting 8021x - Password</key>
+			<string>Password</string>
+			<key>Setting 8021x - Clinet Cert</key>
+			<string>Client Certification</string>
+			<key>Setting 8021x - Domain Name</key>
+			<string>Domain Name</string>
+			<key>Setting 8021x - Use Client Certification</key>
+			<string>Use Client Certification</string>
+			<key>Setting 8021x - Certification Selection</key>
+			<string>Certification Selection</string>
+			<key>Setting 8021x - Private Key Selection</key>
+			<string>Private Key Selection</string>
+		</dict>
+	</array>
+	<key>ja</key>
+	<array>
+		<dict>
+			<key>AboutPage - Date</key>
+			<string>更新日 : </string>
+			<key>AboutPage - EEPROM</key>
+			<string>EEPROMのバージョン</string>
+			<key>AboutPage - MAC Address</key>
+			<string>MAC アドレス</string>
+			<key>AboutPage - NIC Driver</key>
+			<string>ドライババージョン</string>
+			<key>AboutPage - Version</key>
+			<string>バージョン : </string>
+			<key>AboutPage - Wireless Utility</key>
+			<string>ユーティリティのバージョン</string>
+			<key>Advanced - Apply</key>
+			<string>適用</string>
+			<key>Advanced - Enable Tx Burst</key>
+			<string>TX バースト有効</string>
+			<key>Advanced - Enable PSP XLink</key>
+			<string>PSP XLink 有効</string>
+			<key>Advanced - Country Region Code</key>
+			<string>Country Region Code の選択</string>
+			<key>Advanced - Msg1</key>
+			<string>電波干渉が発生した場合, チャンネルは初期設定の値となります.</string>
+			<key>Advanced - Radio Off</key>
+			<string>電波オフ</string>
+			<key>Advanced - Radio On</key>
+			<string>電波オン</string>
+			<key>Advanced - Tx Rate</key>
+			<string>TX レート</string>
+			<key>Advanced - Wireless Mode</key>
+			<string>ワイヤレスモード</string>
+			<key>HiddenSSID - Cancel</key>
+			<string>キャンセル</string>
+			<key>HiddenSSID - Msg1</key>
+			<string>SSIDを入力してください.</string>
+			<key>HiddenSSID - OK</key>
+			<string>OK</string>
+			<key>HiddenSSID - SSID</key>
+			<string>SSIDが非表示に設定されています. 手動で設定してください.</string>
+			<key>LinkStatusPage -  Link Speed Rx</key>
+			<string>RX</string>
+			<key>LinkStatusPage - Current Channel</key>
+			<string>チャンネル</string>
+			<key>LinkStatusPage - Link Quality</key>
+			<string>リンク品質</string>
+			<key>LinkStatusPage - Link Speed</key>
+			<string>リンク速度（Mbps）</string>
+			<key>LinkStatusPage - Link Speed Tx</key>
+			<string>TX</string>
+			<key>LinkStatusPage - Noise Level</key>
+			<string>ノイズレベル</string>
+			<key>LinkStatusPage - Status</key>
+			<string>状況</string>
+			<key>LinkStatusPage - Strength1</key>
+			<string>シグナル１の強さ</string>
+			<key>LinkStatusPage - Strength2</key>
+			<string>シグナル２の強さ</string>
+			<key>LinkStatusPage - Strength3</key>
+			<string>シグナル３の強さ</string>
+			<key>LinkStatusPage - Throughput</key>
+			<string>スループット(Kbps)</string>
+			<key>LinkStatusPage - Throughput Rx</key>
+			<string>Rx</string>
+			<key>LinkStatusPage - Throughput Tx</key>
+			<string>Tx</string>
+			<key>LinkStatusPage - HT Info</key>
+			<string>HT情報</string>
+			<key>MainMenu - Itme1</key>
+			<string>無線LANユーティリティについて</string>
+			<key>MainMenu - Itme2</key>
+			<string>環境設定...</string>
+			<key>MainMenu - Itme3</key>
+			<string>無線LANユーティリティを隠す</string>
+			<key>MainMenu - Itme4</key>
+			<string>すべてを表示</string>
+			<key>MainMenu - Itme5</key>
+			<string>無線LANユーティリティを閉じる</string>
+			<key>MainWindow - About</key>
+			<string>バージョン情報</string>
+			<key>MainWindow - Advances</key>
+			<string>高度な設定</string>
+			<key>MainWindow - Link Status</key>
+			<string>リンク状況</string>
+			<key>MainWindow - Profile</key>
+			<string>プロファイル</string>
+			<key>MainWindow - Site Survey</key>
+			<string>サイトサーベイ</string>
+			<key>MainWindow - Statistics</key>
+			<string>統計</string>
+			<key>MainWindow - Title</key>
+			<string>無線LANユーティリティ</string>
+			<key>MainWindow - WPS</key>
+			<string>WPS</string>
+			<key>Profile Setting - Adhoc</key>
+			<string>802.11 アドホック</string>
+			<key>Profile Setting - Authentication Security</key>
+			<string>認証とセキュリティ</string>
+			<key>Profile Setting - CAM</key>
+			<string>CAM(常時作動)モード</string>
+			<key>Profile Setting - Channel</key>
+			<string>チャンネル</string>
+			<key>Profile Setting - Fragment Threshold</key>
+			<string>フラグメンテーションしきい値</string>
+			<key>Profile Setting - Infrastructure</key>
+			<string>インフラストラクチャ</string>
+			<key>Profile Setting - Msg1</key>
+			<string>プロファイル名を入力してください.</string>
+			<key>Profile Setting - Msg2</key>
+			<string>SSIDを入力してください.</string>
+			<key>Profile Setting - Msg3</key>
+			<string>同じ名前のブロファイルがあります。</string>
+			<key>Profile Setting - Msg4</key>
+			<string>上書きしてもよろしいですか？</string>
+			<key>Profile Setting - Name</key>
+			<string>プロファイル名</string>
+			<key>Profile Setting - Network Type</key>
+			<string>ネットワークタイプ</string>
+			<key>Profile Setting - PSM</key>
+			<string>PSM (省電力モード)</string>
+			<key>Profile Setting - RTS Threshold</key>
+			<string>RTS しきい値</string>
+			<key>Profile Setting - SSID</key>
+			<string>SSID</string>
+			<key>Profile Setting - Save Mode</key>
+			<string>省電力モード</string>
+			<key>Profile Setting - System Configuation</key>
+			<string>システム設定</string>
+			<key>Profile Setting - Tx Power</key>
+			<string>Tx パワー</string>
+			<key>ProfilePage - Activate</key>
+			<string>有効化</string>
+			<key>ProfilePage - Add</key>
+			<string>追加</string>
+			<key>ProfilePage - Authentication</key>
+			<string>認証</string>
+			<key>ProfilePage - Channel</key>
+			<string>ch</string>
+			<key>ProfilePage - Delete</key>
+			<string>削除</string>
+			<key>ProfilePage - Edit</key>
+			<string>編集</string>
+			<key>ProfilePage - Encryption</key>
+			<string>暗号化</string>
+			<key>ProfilePage - Msg1</key>
+			<string>何も選択されていません.</string>
+			<key>ProfilePage - Msg2</key>
+			<string>削除するプロファイルを選択してください.</string>
+			<key>ProfilePage - Msg3</key>
+			<string>何か１つ選択してください。</string>
+			<key>ProfilePage - Msg4</key>
+			<string>無線LANボードが見つかりません.</string>
+			<key>ProfilePage - Msg5</key>
+			<string>無線LANボードを挿入してからプロファイルの設定をしてください.</string>
+			<key>ProfilePage - Name</key>
+			<string>プロファイル</string>
+			<key>ProfilePage - Network</key>
+			<string>ネットワーク</string>
+			<key>ProfilePage - Profile List</key>
+			<string>-------------------------------------- プロファイル一覧 --------------------------------------</string>
+			<key>ProfilePage - SSID</key>
+			<string>SSID</string>
+			<key>SiteSurveyPage - AP List</key>
+			<string>------------------------------------------ AP 一覧 ------------------------------------------</string>
+			<key>SiteSurveyPage - Add Profile</key>
+			<string>プロファイルを追加</string>
+			<key>SiteSurveyPage - Authentication</key>
+			<string>認証</string>
+			<key>SiteSurveyPage - BSSID</key>
+			<string>BSSID</string>
+			<key>SiteSurveyPage - Channel</key>
+			<string>ch</string>
+			<key>SiteSurveyPage - Connect</key>
+			<string>接続</string>
+			<key>SiteSurveyPage - Encryption</key>
+			<string>暗号化</string>
+			<key>SiteSurveyPage - Msg1</key>
+			<string>何も選択されていません。</string>
+			<key>SiteSurveyPage - Msg2</key>
+			<string>接続するアクセスポイントを選んでください.</string>
+			<key>SiteSurveyPage - Msg3</key>
+			<string>WPA-エンタープライズ / WPA2-エンタープライズはサポートしておりません.</string>
+			<key>SiteSurveyPage - Msg4</key>
+			<string>接続</string>
+			<key>SiteSurveyPage - Network</key>
+			<string>ネットワークタイプ</string>
+			<key>SiteSurveyPage - Rescan</key>
+			<string>検索</string>
+			<key>SiteSurveyPage - SSID</key>
+			<string>SSID</string>
+			<key>SiteSurveyPage - Signal</key>
+			<string>強度</string>
+			<key>StatisticsPage - Counters</key>
+			<string>リセット</string>
+			<key>StatisticsPage - DFR</key>
+			<string>受信された重複フレーム数</string>
+			<key>StatisticsPage - FDDTO</key>
+			<string>リソース不足のために破棄されたフレーム数</string>
+			<key>StatisticsPage - FFTRAAAR</key>
+			<string>すべてのリトライ後にACKの受信に失敗したフレーム数</string>
+			<key>StatisticsPage - FRS</key>
+			<string>受信に成功したフレーム数</string>
+			<key>StatisticsPage - FRWCE</key>
+			<string>CRCエラーと一緒に受信したフレーム数</string>
+			<key>StatisticsPage - FTS</key>
+			<string>送信が成功したフレーム数</string>
+			<key>StatisticsPage - FTSAR</key>
+			<string>リトライ後に送信が成功したフレーム数</string>
+			<key>StatisticsPage - FTSWR</key>
+			<string>リトライ無しで送信が成功したフレーム数</string>
+			<key>StatisticsPage - RFFTRC</key>
+			<string>CTSの受信に失敗したRTSフレーム数</string>
+			<key>StatisticsPage - RFSRC</key>
+			<string>CTSの受信に成功したRTSフレーム数</string>
+			<key>StatisticsPage - Receive</key>
+			<string>-- 受信の統計 --</string>
+			<key>StatisticsPage - Transmit</key>
+			<string>-- 送信の統計 --</string>
+			<key>WEP Setting - ASCII</key>
+			<string>ASCII</string>
+			<key>WEP Setting - Authentication Type</key>
+			<string>認証タイプ</string>
+			<key>WEP Setting - Cancel</key>
+			<string>キャンセル</string>
+			<key>WEP Setting - Encryption Type</key>
+			<string>暗号化</string>
+			<key>WEP Setting - Hexadecimal</key>
+			<string>16進数</string>
+			<key>WEP Setting - Key1</key>
+			<string>キー 1</string>
+			<key>WEP Setting - Key2</key>
+			<string>キー 2</string>
+			<key>WEP Setting - Key3</key>
+			<string>キー 3</string>
+			<key>WEP Setting - Key4</key>
+			<string>キー 4</string>
+			<key>WEP Setting - Msg1</key>
+			<string>プレシェアードキーが無効です.  8文字以上のパスフレーズを設定してください.</string>
+			<key>WEP Setting - Msg10</key>
+			<string>キー 4 が無効です. 10桁または26桁の16進数を設定してください.</string>
+			<key>WEP Setting - Msg11</key>
+			<string>キー 4 が無効です. 5文字または13文字のASCII文字を設定してください.</string>
+			<key>WEP Setting - Msg2</key>
+			<string>プレシェアードキーが無効です.  8~63文字のASCII文字または64桁の16進数を設定してください.</string>
+			<key>WEP Setting - Msg3</key>
+			<string>プレシェアードキーが無効です.  ASCII文字で63文字, 16進数で64桁まで設定できます.</string>
+			<key>WEP Setting - Msg4</key>
+			<string>キー 1 が無効です. 10桁または26桁の16進数を設定してください.</string>
+			<key>WEP Setting - Msg5</key>
+			<string>キー 1 が無効です. 5文字または13文字のASCII文字を設定してください.</string>
+			<key>WEP Setting - Msg6</key>
+			<string>キー 2 が無効です. 10桁または26桁の16進数を設定してください.</string>
+			<key>WEP Setting - Msg7</key>
+			<string>キー 2 が無効です. 5文字または13文字のASCII文字を設定してください.</string>
+			<key>WEP Setting - Msg8</key>
+			<string>キー 3 が無効です. 10桁または26桁の16進数を設定してください.</string>
+			<key>WEP Setting - Msg9</key>
+			<string>キー 3 が無効です. 5文字または13文字のASCII文字を設定してください.</string>
+			<key>WEP Setting - OK</key>
+			<string>OK</string>
+			<key>WEP Setting - WEP Setting</key>
+			<string>WEP キー設定</string>
+			<key>WEP Setting - WPA Pre-Shared Key</key>
+			<string>プレシェアードキー</string>
+			<key>WEP Setting - Open</key>
+			<string>オープン</string>
+			<key>WEP Setting - Shared</key>
+			<string>シェアード</string>
+			<key>WEP Setting - NONE</key>
+			<string>なし</string>
+			<key>WPS Profile - Authentication Type</key>
+			<string>認証方式</string>
+			<key>WPS Profile - BSSID</key>
+			<string>BSSID</string>
+			<key>WPS Profile - Cancel</key>
+			<string>キャンセル</string>
+			<key>WPS Profile - Encryption Type</key>
+			<string>暗号化</string>
+			<key>WPS Profile - Key Index</key>
+			<string>キーインデックス</string>
+			<key>WPS Profile - Key Length</key>
+			<string>キー長</string>
+			<key>WPS Profile - Key Material</key>
+			<string>暗号キー</string>
+			<key>WPS Profile - Msg1</key>
+			<string>暗号化が無効です. 安全な設定ではありません.</string>
+			<key>WPS Profile - Msg2</key>
+			<string>暗号キーが無効です. 5文字のASCII文字を設定してください.</string>
+			<key>WPS Profile - Msg3</key>
+			<string>暗号キーが無効です. 10桁の16進数を設定してください.</string>
+			<key>WPS Profile - Msg4</key>
+			<string>暗号キーが無効です. 13文字のASCII文字を設定してください.</string>
+			<key>WPS Profile - Msg5</key>
+			<string>暗号キーが無効です. 26桁の16進数を設定してください.</string>
+			<key>WPS Profile - Msg6</key>
+			<string>暗号キーが無効です. 8 ~ 63文字のASCII文字または64桁の16進数を設定してください.</string>
+			<key>WPS Profile - OK</key>
+			<string>OK</string>
+			<key>WPS Status - AP Setup Locked</key>
+			<string>AP Setup Locked</string>
+			<key>WPS Status - Authentication Type</key>
+			<string>認証方式</string>
+			<key>WPS Status - Config Methods</key>
+			<string>設定方式</string>
+			<key>WPS Status - Device Password ID</key>
+			<string>デバイスパスワードID</string>
+			<key>WPS Status - Encryption Type</key>
+			<string>暗号化</string>
+			<key>WPS Status - OK</key>
+			<string>OK</string>
+			<key>WPS Status - RF Bands</key>
+			<string>RF Bands</string>
+			<key>WPS Status - Selected Register</key>
+			<string>Selected Register</string>
+			<key>WPS Status - State</key>
+			<string>ステータス</string>
+			<key>WPS Status - UUIDE</key>
+			<string>UUID-E</string>
+			<key>WPS Status - Version</key>
+			<string>バージョン</string>
+			<key>WPSPage - AP Authentication</key>
+			<string>認証方式</string>
+			<key>WPSPage - AP BSSID</key>
+			<string>BSSID</string>
+			<key>WPSPage - AP Channel</key>
+			<string>ch</string>
+			<key>WPSPage - AP Encryption</key>
+			<string>暗号化</string>
+			<key>WPSPage - AP ID</key>
+			<string>ID</string>
+			<key>WPSPage - AP List</key>
+			<string>-------------------------- WPSアクセスポイントリスト --------------------------</string>
+			<key>WPSPage - AP SSID</key>
+			<string>SSID</string>
+			<key>WPSPage - Associate IE</key>
+			<string>WPS associate IE</string>
+			<key>WPSPage - Automatically Select The AP</key>
+			<string>自動</string>
+			<key>WPSPage - Config Mode</key>
+			<string>設定モード</string>
+			<key>WPSPage - Connect</key>
+			<string>接続</string>
+			<key>WPSPage - Delete</key>
+			<string>削除</string>
+			<key>WPSPage - Disconnect</key>
+			<string>切断</string>
+			<key>WPSPage - Enrollee</key>
+			<string>Enrollee</string>
+			<key>WPSPage - Export Profile</key>
+			<string>プロファイルに追加</string>
+			<key>WPSPage - Information</key>
+			<string>設定情報</string>
+			<key>WPSPage - Msg1</key>
+			<string>何も選択されていません。</string>
+			<key>WPSPage - Msg2</key>
+			<string>プロファイルを選択してください.</string>
+			<key>WPSPage - Msg3</key>
+			<string>PINコードが無効です.</string>
+			<key>WPSPage - Msg4</key>
+			<string>PINコードを再入力してください.</string>
+			<key>WPSPage - Msg5</key>
+			<string>PINコードエラー</string>
+			<key>WPSPage - Pin Code</key>
+			<string>PINコード</string>
+			<key>WPSPage - Probe IE</key>
+			<string>WPS probe IE</string>
+			<key>WPSPage - Profile Authentication</key>
+			<string>認証方式</string>
+			<key>WPSPage - Profile Detail</key>
+			<string>詳細</string>
+			<key>WPSPage - Profile Encryption</key>
+			<string>暗号化</string>
+			<key>WPSPage - Profile List</key>
+			<string>---------------------------- WPSプロファイルリスト ----------------------------</string>
+			<key>WPSPage - Profile Name</key>
+			<string>プロファイル</string>
+			<key>WPSPage - Profile SSID</key>
+			<string>SSID</string>
+			<key>WPSPage - Registrar</key>
+			<string>Registrar</string>
+			<key>WPSPage - Renew</key>
+			<string>更新</string>
+			<key>WPSPage - Rescan</key>
+			<string>スキャン</string>
+			<key>WPSPage - Rotate</key>
+			<string>接続先切替</string>
+			<key>Setting 8021x - Title</key>
+			<string>802.1x</string>
+			<key>Setting 8021x - EAP Method</key>
+			<string>EAP Method</string>
+			<key>Setting 8021x - Tunnel Method</key>
+			<string>Tunnel Method</string>
+			<key>Setting 8021x - Session Resumption</key>
+			<string>Session Resumption</string>
+			<key>Setting 8021x - ID</key>
+			<string>ID</string>
+			<key>Setting 8021x - Password</key>
+			<string>Password</string>
+			<key>Setting 8021x - Clinet Cert</key>
+			<string>Client Certification</string>
+			<key>Setting 8021x - Domain Name</key>
+			<string>Domain Name</string>
+			<key>Setting 8021x - Use Client Certification</key>
+			<string>Use Client Certification</string>
+			<key>Setting 8021x - Certification Selection</key>
+			<string>Certification Selection</string>
+			<key>Setting 8021x - Private Key Selection</key>
+			<string>Private Key Selection</string>
+		</dict>
+	</array>
+	<key>en</key>
+	<array>
+		<dict>
+			<key>AboutPage - Date</key>
+			<string>日期 : </string>
+			<key>AboutPage - EEPROM</key>
+			<string>EEPROM</string>
+			<key>AboutPage - MAC Address</key>
+			<string>Mac地址</string>
+			<key>AboutPage - NIC Driver</key>
+			<string>驱动程序版本</string>
+			<key>AboutPage - Version</key>
+			<string>版本 : </string>
+			<key>AboutPage - Wireless Utility</key>
+			<string>主程序版本</string>
+			<key>Advanced - Apply</key>
+			<string>套用</string>
+			<key>Advanced - Enable PSP XLink</key>
+			<string>启用 PSP XLink</string>
+			<key>Advanced - Country Region Code</key>
+			<string>选择您所在的国家地区代码</string>
+			<key>Advanced - Enable Tx Burst</key>
+			<string>启用 TX Burst</string>
+			<key>Advanced - Msg1</key>
+			<string>信道设置自动校正</string>
+			<key>Advanced - Radio Off</key>
+			<string>关闭广播</string>
+			<key>Advanced - Radio On</key>
+			<string>打开广播</string>
+			<key>Advanced - Tx Rate</key>
+			<string>传输速度</string>
+			<key>Advanced - Wireless Mode</key>
+			<string>无线模式</string>
+			<key>HiddenSSID - Cancel</key>
+			<string>取消</string>
+			<key>HiddenSSID - Msg1</key>
+			<string>请输入网络名称（SSID）</string>
+			<key>HiddenSSID - OK</key>
+			<string>确定</string>
+			<key>HiddenSSID - SSID</key>
+			<string>该AP隐藏了SSID，请手动配置SSID</string>
+			<key>LinkStatusPage -  Link Speed Rx</key>
+			<string>接收</string>
+			<key>LinkStatusPage - Current Channel</key>
+			<string>频道</string>
+			<key>LinkStatusPage - Link Quality</key>
+			<string>连接质量</string>
+			<key>LinkStatusPage - Link Speed</key>
+			<string>连接速度 (Mbps)</string>
+			<key>LinkStatusPage - Link Speed Tx</key>
+			<string>传输</string>
+			<key>LinkStatusPage - Noise Level</key>
+			<string>噪声电平</string>
+			<key>LinkStatusPage - Status</key>
+			<string>连接状态</string>
+			<key>LinkStatusPage - Strength1</key>
+			<string>信号强度 1</string>
+			<key>LinkStatusPage - Strength2</key>
+			<string>信号强度 2</string>
+			<key>LinkStatusPage - Strength3</key>
+			<string>信号强度 3</string>
+			<key>LinkStatusPage - Throughput</key>
+			<string>传输效率 (Kbps)</string>
+			<key>LinkStatusPage - Throughput Rx</key>
+			<string>接收</string>
+			<key>LinkStatusPage - Throughput Tx</key>
+			<string>传输</string>
+			<key>LinkStatusPage - HT Info</key>
+			<string>总线传输信息</string>
+			<key>MainMenu - Itme1</key>
+			<string>关于无线网络设置工具</string>
+			<key>MainMenu - Itme2</key>
+			<string>偏好设置...</string>
+			<key>MainMenu - Itme3</key>
+			<string>隐藏无线网络设置工具</string>
+			<key>MainMenu - Itme4</key>
+			<string>显示全部</string>
+			<key>MainMenu - Itme5</key>
+			<string>离开无线网络设置工具</string>
+			<key>MainWindow - About</key>
+			<string>关于</string>
+			<key>MainWindow - Advances</key>
+			<string>进阶</string>
+			<key>MainWindow - Link Status</key>
+			<string>连接状态</string>
+			<key>MainWindow - Profile</key>
+			<string>连接设置</string>
+			<key>MainWindow - Site Survey</key>
+			<string>网络列表</string>
+			<key>MainWindow - Statistics</key>
+			<string>统计</string>
+			<key>MainWindow - Title</key>
+			<string>无线网络设置工具</string>
+			<key>MainWindow - WPS</key>
+			<string>WPS</string>
+			<key>Profile Setting - Adhoc</key>
+			<string>802.11 点对点模式</string>
+			<key>Profile Setting - Authentication Security</key>
+			<string>验证 &amp; 加密</string>
+			<key>Profile Setting - CAM</key>
+			<string>持续唤醒模式</string>
+			<key>Profile Setting - Channel</key>
+			<string>频道</string>
+			<key>Profile Setting - Fragment Threshold</key>
+			<string>片段阈值</string>
+			<key>Profile Setting - Infrastructure</key>
+			<string>集中控制模式</string>
+			<key>Profile Setting - Msg1</key>
+			<string>请输入连接设置名称</string>
+			<key>Profile Setting - Msg2</key>
+			<string>设输入网络名称（SSID）</string>
+			<key>Profile Setting - Msg3</key>
+			<string>存在相同的连接设置名称</string>
+			<key>Profile Setting - Msg4</key>
+			<string>确定要覆盖已存在的连接设置名称？</string>
+			<key>Profile Setting - Name</key>
+			<string>连接设置名称</string>
+			<key>Profile Setting - Network Type</key>
+			<string>网络类型</string>
+			<key>Profile Setting - PSM</key>
+			<string>省电模式</string>
+			<key>Profile Setting - RTS Threshold</key>
+			<string>使用RTS</string>
+			<key>Profile Setting - SSID</key>
+			<string>网络名称（SSID）</string>
+			<key>Profile Setting - Save Mode</key>
+			<string>省电方式</string>
+			<key>Profile Setting - System Configuation</key>
+			<string>一般设定</string>
+			<key>Profile Setting - Tx Power</key>
+			<string>传输功率</string>
+			<key>ProfilePage - Activate</key>
+			<string>套用</string>
+			<key>ProfilePage - Add</key>
+			<string>增加</string>
+			<key>ProfilePage - Authentication</key>
+			<string>验证方式</string>
+			<key>ProfilePage - Channel</key>
+			<string>频道</string>
+			<key>ProfilePage - Delete</key>
+			<string>删除</string>
+			<key>ProfilePage - Edit</key>
+			<string>编辑</string>
+			<key>ProfilePage - Encryption</key>
+			<string>加密类型</string>
+			<key>ProfilePage - Msg1</key>
+			<string>没有选项</string>
+			<key>ProfilePage - Msg2</key>
+			<string>请选择要删除的项目</string>
+			<key>ProfilePage - Msg3</key>
+			<string>请选择要编辑的项目</string>
+			<key>ProfilePage - Msg4</key>
+			<string>装置不存在</string>
+			<key>ProfilePage - Msg5</key>
+			<string>请插入网卡后再设定连接设置名称</string>
+			<key>ProfilePage - Name</key>
+			<string>连接设置名称</string>
+			<key>ProfilePage - Network</key>
+			<string>网络类型</string>
+			<key>ProfilePage - Profile List</key>
+			<string>---------------------------------------- 连接设置清单 ----------------------------------------</string>
+			<key>ProfilePage - SSID</key>
+			<string>网络名称</string>
+			<key>SiteSurveyPage - AP List</key>
+			<string>------------------------------------------- 网络清单 -------------------------------------------</string>
+			<key>SiteSurveyPage - Add Profile</key>
+			<string>添加到连接设置</string>
+			<key>SiteSurveyPage - Authentication</key>
+			<string>验证方式</string>
+			<key>SiteSurveyPage - BSSID</key>
+			<string>BSSID</string>
+			<key>SiteSurveyPage - Channel</key>
+			<string>频道</string>
+			<key>SiteSurveyPage - Connect</key>
+			<string>连接</string>
+			<key>SiteSurveyPage - Encryption</key>
+			<string>加密方式</string>
+			<key>SiteSurveyPage - Msg1</key>
+			<string>没有选项</string>
+			<key>SiteSurveyPage - Msg2</key>
+			<string>请选择要连接的项目</string>
+			<key>SiteSurveyPage - Msg3</key>
+			<string>尚不支持WPA 企业版/ WPA2 企业版！</string>
+			<key>SiteSurveyPage - Msg4</key>
+			<string>已连接</string>
+			<key>SiteSurveyPage - Network</key>
+			<string>网络类型</string>
+			<key>SiteSurveyPage - Rescan</key>
+			<string>重新扫描</string>
+			<key>SiteSurveyPage - SSID</key>
+			<string>网络名称</string>
+			<key>SiteSurveyPage - Signal</key>
+			<string>信号强度</string>
+			<key>StatisticsPage - Counters</key>
+			<string>重设计数器</string>
+			<key>StatisticsPage - DFR</key>
+			<string>重覆接收的封包</string>
+			<key>StatisticsPage - FDDTO</key>
+			<string>资源不够而丢掉的封包</string>
+			<key>StatisticsPage - FFTRAAAR</key>
+			<string>经重送也未收到回覆的封包</string>
+			<key>StatisticsPage - FRS</key>
+			<string>成功接收且没错误的封包</string>
+			<key>StatisticsPage - FRWCE</key>
+			<string>成功接收且有CRC的封包</string>
+			<key>StatisticsPage - FTS</key>
+			<string>成功传送的封包</string>
+			<key>StatisticsPage - FTSAR</key>
+			<string>经重送且成功传送的封包</string>
+			<key>StatisticsPage - FTSWR</key>
+			<string>未经重送且成功传送的封包</string>
+			<key>StatisticsPage - RFFTRC</key>
+			<string>无法收到CTS的RTS</string>
+			<key>StatisticsPage - RFSRC</key>
+			<string>成功收到CTS的RTS</string>
+			<key>StatisticsPage - Receive</key>
+			<string>-- 接收统计 --</string>
+			<key>StatisticsPage - Transmit</key>
+			<string>-- 传送统计 --</string>
+			<key>WEP Setting - ASCII</key>
+			<string>ASCII</string>
+			<key>WEP Setting - Authentication Type</key>
+			<string>验证方式</string>
+			<key>WEP Setting - Cancel</key>
+			<string>取消</string>
+			<key>WEP Setting - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WEP Setting - Hexadecimal</key>
+			<string>十六进制码</string>
+			<key>WEP Setting - Key1</key>
+			<string>密钥 #1</string>
+			<key>WEP Setting - Key2</key>
+			<string>密钥 #2</string>
+			<key>WEP Setting - Key3</key>
+			<string>密钥 #3</string>
+			<key>WEP Setting - Key4</key>
+			<string>密钥 #4</string>
+			<key>WEP Setting - Msg1</key>
+			<string>无效的欲共享WPA密钥，欲共享WPA码应至少包含8个字符！</string>
+			<key>WEP Setting - Msg10</key>
+			<string>无效的WEP密钥4长度，WEP应该是10或者26个十六进制数！</string>
+			<key>WEP Setting - Msg11</key>
+			<string>无效的WEP密钥4长度，WEP应该是5或13个ASCII字符！</string>
+			<key>WEP Setting - Msg2</key>
+			<string>无效的WPA预共享密钥，WPA预共享密钥使用的键字段应该是8〜63个ASCII字符或64个十六进制字符！</string>
+			<key>WEP Setting - Msg3</key>
+			<string>无效的WPA预共享密钥，WPA预共享密钥应少于64个字符！</string>
+			<key>WEP Setting - Msg4</key>
+			<string>无效的WEP密钥1长度， WEP应该是10或26个十六进制数字！</string>
+			<key>WEP Setting - Msg5</key>
+			<string>无效的WEP密钥4长度，WEP应该是5或13个ASCII字符！</string>
+			<key>WEP Setting - Msg6</key>
+			<string>无效的WEP密钥2长度，WEP应该是10或者26个十六进制数！</string>
+			<key>WEP Setting - Msg7</key>
+			<string>无效的WEP密钥2长度，WEP应该是5或13个ASCII字符！</string>
+			<key>WEP Setting - Msg8</key>
+			<string>无效的WEP密钥3长度，WEP应该是10或者26个十六进制数！</string>
+			<key>WEP Setting - Msg9</key>
+			<string>无效的WEP密钥3长度，WEP应该是5或13个ASCII字符！</string>
+			<key>WEP Setting - OK</key>
+			<string>确定</string>
+			<key>WEP Setting - WEP Setting</key>
+			<string>密钥设置</string>
+			<key>WEP Setting - WPA Pre-Shared Key</key>
+			<string>WPA-PSK 密钥</string>
+			<key>WEP Setting - Open</key>
+			<string>开放式</string>
+			<key>WEP Setting - Shared</key>
+			<string>共享式</string>
+			<key>WEP Setting - NONE</key>
+			<string>NONE</string>
+			<key>WPS Profile - Authentication Type</key>
+			<string>验证方式</string>
+			<key>WPS Profile - BSSID</key>
+			<string>BSSID</string>
+			<key>WPS Profile - Cancel</key>
+			<string>取消</string>
+			<key>WPS Profile - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WPS Profile - Key Index</key>
+			<string>密钥索引</string>
+			<key>WPS Profile - Key Length</key>
+			<string>密钥长度</string>
+			<key>WPS Profile - Key Material</key>
+			<string>密钥资料</string>
+			<key>WPS Profile - Msg1</key>
+			<string>你的配置不安全</string>
+			<key>WPS Profile - Msg2</key>
+			<string>无效的WEP密钥的长度， WEP密钥应该是5个ASCII字符！</string>
+			<key>WPS Profile - Msg3</key>
+			<string>无效的WEP密钥的长度，WEP密钥应该为10个十六进制数字！</string>
+			<key>WPS Profile - Msg4</key>
+			<string>无效的WEP密钥的长度，WEP密钥应该是13个ASCII字符！</string>
+			<key>WPS Profile - Msg5</key>
+			<string>无效的WEP密钥的长度，WEP密钥应该为26个十六进制数字！</string>
+			<key>WPS Profile - Msg6</key>
+			<string>无效的WPA预共享密钥，WPA-PSK使用的字段应该是64个十六进制数字！</string>
+			<key>WPS Profile - OK</key>
+			<string>确定</string>
+			<key>WPS Status - AP Setup Locked</key>
+			<string>锁定AP的连接设置</string>
+			<key>WPS Status - Authentication Type</key>
+			<string>验证方式</string>
+			<key>WPS Status - Config Methods</key>
+			<string>连接设置方式</string>
+			<key>WPS Status - Device Password ID</key>
+			<string>装置密码ID</string>
+			<key>WPS Status - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WPS Status - OK</key>
+			<string>确定</string>
+			<key>WPS Status - RF Bands</key>
+			<string>射频频带</string>
+			<key>WPS Status - Selected Register</key>
+			<string>已选的受理注册机构</string>
+			<key>WPS Status - State</key>
+			<string>状态</string>
+			<key>WPS Status - UUIDE</key>
+			<string>通用唯一识别码</string>
+			<key>WPS Status - Version</key>
+			<string>版本</string>
+			<key>WPSPage - AP Authentication</key>
+			<string>认证方式</string>
+			<key>WPSPage - AP BSSID</key>
+			<string>BSSID</string>
+			<key>WPSPage - AP Channel</key>
+			<string>频道</string>
+			<key>WPSPage - AP Encryption</key>
+			<string>加密方式</string>
+			<key>WPSPage - AP ID</key>
+			<string>ID</string>
+			<key>WPSPage - AP List</key>
+			<string>---------------------------- WPS AP 列表 ----------------------------</string>
+			<key>WPSPage - AP SSID</key>
+			<string>网络名称</string>
+			<key>WPSPage - Associate IE</key>
+			<string>WPS 连结 IE</string>
+			<key>WPSPage - Automatically Select The AP</key>
+			<string>自动选择AP</string>
+			<key>WPSPage - Config Mode</key>
+			<string>连接设置方式</string>
+			<key>WPSPage - Connect</key>
+			<string>连接</string>
+			<key>WPSPage - Delete</key>
+			<string>删除</string>
+			<key>WPSPage - Disconnect</key>
+			<string>断开</string>
+			<key>WPSPage - Enrollee</key>
+			<string>登录者</string>
+			<key>WPSPage - Export Profile</key>
+			<string>导出配置设置</string>
+			<key>WPSPage - Information</key>
+			<string>信息</string>
+			<key>WPSPage - Msg1</key>
+			<string>没有选项</string>
+			<key>WPSPage - Msg2</key>
+			<string>请选择项目</string>
+			<key>WPSPage - Msg3</key>
+			<string>无效的Pin码</string>
+			<key>WPSPage - Msg4</key>
+			<string>请再次输入</string>
+			<key>WPSPage - Msg5</key>
+			<string>Pin码有误</string>
+			<key>WPSPage - Pin Code</key>
+			<string>Pin 码</string>
+			<key>WPSPage - Probe IE</key>
+			<string>WPS 探索 IE</string>
+			<key>WPSPage - Profile Authentication</key>
+			<string>验证方式</string>
+			<key>WPSPage - Profile Detail</key>
+			<string>连接设置内容</string>
+			<key>WPSPage - Profile Encryption</key>
+			<string>加密方式</string>
+			<key>WPSPage - Profile List</key>
+			<string>---------------------------- WPS 连接设置列表 ----------------------------</string>
+			<key>WPSPage - Profile Name</key>
+			<string>连接设置名称</string>
+			<key>WPSPage - Profile SSID</key>
+			<string>网络名称</string>
+			<key>WPSPage - Registrar</key>
+			<string>受理注册机构</string>
+			<key>WPSPage - Renew</key>
+			<string>刷新</string>
+			<key>WPSPage - Rescan</key>
+			<string>重新扫描</string>
+			<key>WPSPage - Rotate</key>
+			<string>轮换</string>
+			<key>Setting 8021x - Title</key>
+			<string>802.1x</string>
+			<key>Setting 8021x - EAP Method</key>
+			<string>EAP方案</string>
+			<key>Setting 8021x - Tunnel Method</key>
+			<string>Tunnel方案</string>
+			<key>Setting 8021x - Session Resumption</key>
+			<string>继续会话</string>
+			<key>Setting 8021x - ID</key>
+			<string>ID</string>
+			<key>Setting 8021x - Password</key>
+			<string>密码</string>
+			<key>Setting 8021x - Clinet Cert</key>
+			<string>用户证书</string>
+			<key>Setting 8021x - Domain Name</key>
+			<string>域名</string>
+			<key>Setting 8021x - Use Client Certification</key>
+			<string>使用用户证书</string>
+			<key>Setting 8021x - Certification Selection</key>
+			<string>证书选择</string>
+			<key>Setting 8021x - Private Key Selection</key>
+			<string>私有密钥选择</string>
+		</dict>
+	</array>
+	<key>zh-Hant</key>
+	<array>
+		<dict>
+			<key>AboutPage - Date</key>
+			<string>日期 : </string>
+			<key>AboutPage - EEPROM</key>
+			<string>EEPROM</string>
+			<key>AboutPage - MAC Address</key>
+			<string>實體位址</string>
+			<key>AboutPage - NIC Driver</key>
+			<string>驅動程式</string>
+			<key>AboutPage - Version</key>
+			<string>版本 : </string>
+			<key>AboutPage - Wireless Utility</key>
+			<string>工具程式版本</string>
+			<key>Advanced - Apply</key>
+			<string>套用</string>
+			<key>Advanced - Enable Tx Burst</key>
+			<string>Enable TX Burst</string>
+			<key>Advanced - Enable PSP XLink</key>
+			<string>Enable PSP XLink</string>
+			<key>Advanced - Country Region Code</key>
+			<string>選擇你的國家區域碼</string>
+			<key>Advanced - Msg1</key>
+			<string>頻道設定會自動校正</string>
+			<key>Advanced - Radio Off</key>
+			<string>Radio Off</string>
+			<key>Advanced - Radio On</key>
+			<string>Radio On</string>
+			<key>Advanced - Tx Rate</key>
+			<string>傳輸速度</string>
+			<key>Advanced - Wireless Mode</key>
+			<string>無線模式</string>
+			<key>HiddenSSID - Cancel</key>
+			<string>取消</string>
+			<key>HiddenSSID - Msg1</key>
+			<string>請輸入網路名稱（SSID）</string>
+			<key>HiddenSSID - OK</key>
+			<string>確定</string>
+			<key>HiddenSSID - SSID</key>
+			<string>請輸入網路名稱</string>
+			<key>LinkStatusPage -  Link Speed Rx</key>
+			<string>接收</string>
+			<key>LinkStatusPage - Current Channel</key>
+			<string>頻道</string>
+			<key>LinkStatusPage - Link Quality</key>
+			<string>連線品質</string>
+			<key>LinkStatusPage - Link Speed</key>
+			<string>連線速度 (Mbps)</string>
+			<key>LinkStatusPage - Link Speed Tx</key>
+			<string>傳輸</string>
+			<key>LinkStatusPage - Noise Level</key>
+			<string>雜訊強度</string>
+			<key>LinkStatusPage - Status</key>
+			<string>連線狀態</string>
+			<key>LinkStatusPage - Strength1</key>
+			<string>訊號強度 1</string>
+			<key>LinkStatusPage - Strength2</key>
+			<string>訊號強度  2</string>
+			<key>LinkStatusPage - Strength3</key>
+			<string>訊號強度 3</string>
+			<key>LinkStatusPage - Throughput</key>
+			<string>傳輸效率 (Kbps)</string>
+			<key>LinkStatusPage - Throughput Rx</key>
+			<string>接收</string>
+			<key>LinkStatusPage - Throughput Tx</key>
+			<string>傳輸</string>
+			<key>LinkStatusPage - HT Info</key>
+			<string>HT情報</string>
+			<key>MainMenu - Itme1</key>
+			<string>關於　無線網路設定工具</string>
+			<key>MainMenu - Itme2</key>
+			<string>喜好設定...</string>
+			<key>MainMenu - Itme3</key>
+			<string>隱藏　無線網路設定工具</string>
+			<key>MainMenu - Itme4</key>
+			<string>顯示全部</string>
+			<key>MainMenu - Itme5</key>
+			<string>離開　無線網路設定工具</string>
+			<key>MainWindow - About</key>
+			<string>資訊</string>
+			<key>MainWindow - Advances</key>
+			<string>進階</string>
+			<key>MainWindow - Link Status</key>
+			<string>連線狀態</string>
+			<key>MainWindow - Profile</key>
+			<string>連線設定</string>
+			<key>MainWindow - Site Survey</key>
+			<string>無線網路</string>
+			<key>MainWindow - Statistics</key>
+			<string>統計</string>
+			<key>MainWindow - Title</key>
+			<string>無線網路設定工具</string>
+			<key>MainWindow - WPS</key>
+			<string>WPS</string>
+			<key>Profile Setting - Adhoc</key>
+			<string>802.11 Ad Hoc</string>
+			<key>Profile Setting - Authentication Security</key>
+			<string>驗證 &amp; 加密</string>
+			<key>Profile Setting - CAM</key>
+			<string>CAM (Constantly Awake Mode)</string>
+			<key>Profile Setting - Channel</key>
+			<string>頻道</string>
+			<key>Profile Setting - Fragment Threshold</key>
+			<string>使用　Fragment</string>
+			<key>Profile Setting - Infrastructure</key>
+			<string>Infrastructure</string>
+			<key>Profile Setting - Msg1</key>
+			<string>請輸入連線設定名稱</string>
+			<key>Profile Setting - Msg2</key>
+			<string>設輸入網路名稱（SSID）</string>
+			<key>Profile Setting - Msg3</key>
+			<string>存在相同的連線設定名稱</string>
+			<key>Profile Setting - Msg4</key>
+			<string>確定要覆蓋已存在的連線設定名稱？</string>
+			<key>Profile Setting - Name</key>
+			<string>連線設定名稱</string>
+			<key>Profile Setting - Network Type</key>
+			<string>網路型態</string>
+			<key>Profile Setting - PSM</key>
+			<string>Power Saving Mode</string>
+			<key>Profile Setting - RTS Threshold</key>
+			<string>使用　RTS</string>
+			<key>Profile Setting - SSID</key>
+			<string>網路名稱（SSID）</string>
+			<key>Profile Setting - Save Mode</key>
+			<string>省電模式</string>
+			<key>Profile Setting - System Configuation</key>
+			<string>一般設定</string>
+			<key>Profile Setting - Tx Power</key>
+			<string>傳輸功率</string>
+			<key>ProfilePage - Activate</key>
+			<string>套用</string>
+			<key>ProfilePage - Add</key>
+			<string>增加</string>
+			<key>ProfilePage - Authentication</key>
+			<string>驗證方式</string>
+			<key>ProfilePage - Channel</key>
+			<string>頻道</string>
+			<key>ProfilePage - Delete</key>
+			<string>刪除</string>
+			<key>ProfilePage - Edit</key>
+			<string>編輯</string>
+			<key>ProfilePage - Encryption</key>
+			<string>加密型態</string>
+			<key>ProfilePage - Msg1</key>
+			<string>沒有選項</string>
+			<key>ProfilePage - Msg2</key>
+			<string>請選擇要刪除的項目</string>
+			<key>ProfilePage - Msg3</key>
+			<string>請選擇要編輯的項目</string>
+			<key>ProfilePage - Msg4</key>
+			<string>裝置不存在</string>
+			<key>ProfilePage - Msg5</key>
+			<string>請插入網卡後再設定連線設定.</string>
+			<key>ProfilePage - Name</key>
+			<string>連線設定名稱</string>
+			<key>ProfilePage - Network</key>
+			<string>網路型態</string>
+			<key>ProfilePage - Profile List</key>
+			<string>---------------------------------------- 連線設定清單 ----------------------------------------</string>
+			<key>ProfilePage - SSID</key>
+			<string>網路名稱</string>
+			<key>SiteSurveyPage - AP List</key>
+			<string>------------------------------------------- 網路清單 -------------------------------------------</string>
+			<key>SiteSurveyPage - Add Profile</key>
+			<string>加入連線設定</string>
+			<key>SiteSurveyPage - Authentication</key>
+			<string>驗證方式</string>
+			<key>SiteSurveyPage - BSSID</key>
+			<string>BSSID</string>
+			<key>SiteSurveyPage - Channel</key>
+			<string>頻道</string>
+			<key>SiteSurveyPage - Connect</key>
+			<string>連線</string>
+			<key>SiteSurveyPage - Encryption</key>
+			<string>加密方式</string>
+			<key>SiteSurveyPage - Msg1</key>
+			<string>沒有選項</string>
+			<key>SiteSurveyPage - Msg2</key>
+			<string>請選擇要連線的項目</string>
+			<key>SiteSurveyPage - Msg3</key>
+			<string>尚未支援　WPA-Enterprise / WPA2-Enterprise!!!</string>
+			<key>SiteSurveyPage - Msg4</key>
+			<string>連結</string>
+			<key>SiteSurveyPage - Network</key>
+			<string>網路型態</string>
+			<key>SiteSurveyPage - Rescan</key>
+			<string>重新掃描</string>
+			<key>SiteSurveyPage - SSID</key>
+			<string>網路名稱</string>
+			<key>SiteSurveyPage - Signal</key>
+			<string>訊號強度</string>
+			<key>StatisticsPage - Counters</key>
+			<string>重設計數器</string>
+			<key>StatisticsPage - DFR</key>
+			<string>重覆接收的封包</string>
+			<key>StatisticsPage - FDDTO</key>
+			<string>資源不夠而丟掉的封包</string>
+			<key>StatisticsPage - FFTRAAAR</key>
+			<string>經重送也未收到回覆的封包</string>
+			<key>StatisticsPage - FRS</key>
+			<string>成功接收且沒錯誤的封包</string>
+			<key>StatisticsPage - FRWCE</key>
+			<string>成功接收且有CRC的封包</string>
+			<key>StatisticsPage - FTS</key>
+			<string>成功傳送的封包</string>
+			<key>StatisticsPage - FTSAR</key>
+			<string>經重送且成功傳送的封包</string>
+			<key>StatisticsPage - FTSWR</key>
+			<string>未經重送且成功傳送的封包</string>
+			<key>StatisticsPage - RFFTRC</key>
+			<string>無法收到CTS的RTS</string>
+			<key>StatisticsPage - RFSRC</key>
+			<string>成功收到CTS的RTS</string>
+			<key>StatisticsPage - Receive</key>
+			<string>-- 接收統計 --</string>
+			<key>StatisticsPage - Transmit</key>
+			<string>-- 傳送統計 --</string>
+			<key>WEP Setting - ASCII</key>
+			<string>ASCII</string>
+			<key>WEP Setting - Authentication Type</key>
+			<string>驗證方式</string>
+			<key>WEP Setting - Cancel</key>
+			<string>取消</string>
+			<key>WEP Setting - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WEP Setting - Hexadecimal</key>
+			<string>Hexadecimal</string>
+			<key>WEP Setting - Key1</key>
+			<string>金鑰 #1</string>
+			<key>WEP Setting - Key2</key>
+			<string>金鑰 #2</string>
+			<key>WEP Setting - Key3</key>
+			<string>金鑰 #3</string>
+			<key>WEP Setting - Key4</key>
+			<string>金鑰 #4</string>
+			<key>WEP Setting - Msg1</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key should be more than 8 characters.</string>
+			<key>WEP Setting - Msg10</key>
+			<string>Invalid WEP key 4 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg11</key>
+			<string>Invalid WEP key 4 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg2</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key used key field should be 8~63 ASCII characters or 64 HEX characters.</string>
+			<key>WEP Setting - Msg3</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key should be less than 64 characters.</string>
+			<key>WEP Setting - Msg4</key>
+			<string>Invalid WEP key 1 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg5</key>
+			<string>Invalid WEP key 1 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg6</key>
+			<string>Invalid WEP key 2 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg7</key>
+			<string>Invalid WEP key 2 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg8</key>
+			<string>Invalid WEP key 3 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg9</key>
+			<string>Invalid WEP key 3 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - OK</key>
+			<string>確定</string>
+			<key>WEP Setting - WEP Setting</key>
+			<string>金鑰設定</string>
+			<key>WEP Setting - WPA Pre-Shared Key</key>
+			<string>WPA-PSK　金鑰</string>
+			<key>WEP Setting - Open</key>
+			<string>Open</string>
+			<key>WEP Setting - Shared</key>
+			<string>Shared</string>
+			<key>WEP Setting - NONE</key>
+			<string>NONE</string>
+			<key>WPS Profile - Authentication Type</key>
+			<string>驗證方式</string>
+			<key>WPS Profile - BSSID</key>
+			<string>BSSID</string>
+			<key>WPS Profile - Cancel</key>
+			<string>取消</string>
+			<key>WPS Profile - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WPS Profile - Key Index</key>
+			<string>金鑰索引</string>
+			<key>WPS Profile - Key Length</key>
+			<string>金鑰長度</string>
+			<key>WPS Profile - Key Material</key>
+			<string>金鑰資料</string>
+			<key>WPS Profile - Msg1</key>
+			<string>Your configuration is not secure</string>
+			<key>WPS Profile - Msg2</key>
+			<string>Invalid WEP Key length. WEP Key should be 5 ascii characters</string>
+			<key>WPS Profile - Msg3</key>
+			<string>Invalid WEP Key length. WEP Key should be 10 hex digits</string>
+			<key>WPS Profile - Msg4</key>
+			<string>Invalid WEP Key length. WEP Key should be 13 ascii characters</string>
+			<key>WPS Profile - Msg5</key>
+			<string>Invalid WEP Key length. WEP Key should be 26 hex digits</string>
+			<key>WPS Profile - Msg6</key>
+			<string>Invalid WPA Pre-Shared key. WPA-PSK use field should be 64 hex digits.</string>
+			<key>WPS Profile - OK</key>
+			<string>確定</string>
+			<key>WPS Status - AP Setup Locked</key>
+			<string>鎖定AP的連線設定</string>
+			<key>WPS Status - Authentication Type</key>
+			<string>驗證方式</string>
+			<key>WPS Status - Config Methods</key>
+			<string>連線設定方式</string>
+			<key>WPS Status - Device Password ID</key>
+			<string>裝置密碼ID</string>
+			<key>WPS Status - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WPS Status - OK</key>
+			<string>確定</string>
+			<key>WPS Status - RF Bands</key>
+			<string>射頻頻帶</string>
+			<key>WPS Status - Selected Register</key>
+			<string>已選的受理註冊機構</string>
+			<key>WPS Status - State</key>
+			<string>狀態</string>
+			<key>WPS Status - UUIDE</key>
+			<string>全域唯一識別碼元素</string>
+			<key>WPS Status - Version</key>
+			<string>版本</string>
+			<key>WPSPage - AP Authentication</key>
+			<string>認證方式</string>
+			<key>WPSPage - AP BSSID</key>
+			<string>BSSID</string>
+			<key>WPSPage - AP Channel</key>
+			<string>頻道</string>
+			<key>WPSPage - AP Encryption</key>
+			<string>加密方式</string>
+			<key>WPSPage - AP ID</key>
+			<string>ID</string>
+			<key>WPSPage - AP List</key>
+			<string>---------------------------- WPS AP 列表 ----------------------------</string>
+			<key>WPSPage - AP SSID</key>
+			<string>網路名稱</string>
+			<key>WPSPage - Associate IE</key>
+			<string>WPS 連結 IE</string>
+			<key>WPSPage - Automatically Select The AP</key>
+			<string>自動選擇AP</string>
+			<key>WPSPage - Config Mode</key>
+			<string>連線設定模式</string>
+			<key>WPSPage - Connect</key>
+			<string>連線</string>
+			<key>WPSPage - Delete</key>
+			<string>刪除</string>
+			<key>WPSPage - Disconnect</key>
+			<string>斷線</string>
+			<key>WPSPage - Enrollee</key>
+			<string>登錄者</string>
+			<key>WPSPage - Export Profile</key>
+			<string>匯出連線設定</string>
+			<key>WPSPage - Information</key>
+			<string>資訊</string>
+			<key>WPSPage - Msg1</key>
+			<string>沒有選項</string>
+			<key>WPSPage - Msg2</key>
+			<string>請選擇項目</string>
+			<key>WPSPage - Msg3</key>
+			<string>Invalid Pin Code.</string>
+			<key>WPSPage - Msg4</key>
+			<string>Please re-enter it.</string>
+			<key>WPSPage - Msg5</key>
+			<string>Pin Code error.</string>
+			<key>WPSPage - Pin Code</key>
+			<string>Pin 碼</string>
+			<key>WPSPage - Probe IE</key>
+			<string>WPS 探索 IE</string>
+			<key>WPSPage - Profile Authentication</key>
+			<string>驗證方式</string>
+			<key>WPSPage - Profile Detail</key>
+			<string>連線設定內容</string>
+			<key>WPSPage - Profile Encryption</key>
+			<string>加密方式</string>
+			<key>WPSPage - Profile List</key>
+			<string>---------------------------- WPS 連線設定列表 ----------------------------</string>
+			<key>WPSPage - Profile Name</key>
+			<string>連線設定名稱</string>
+			<key>WPSPage - Profile SSID</key>
+			<string>網路名稱</string>
+			<key>WPSPage - Registrar</key>
+			<string>受理註冊機構</string>
+			<key>WPSPage - Renew</key>
+			<string>更新</string>
+			<key>WPSPage - Rescan</key>
+			<string>重新掃描</string>
+			<key>WPSPage - Rotate</key>
+			<string>輪換</string>
+			<key>Setting 8021x - Title</key>
+			<string>802.1x</string>
+			<key>Setting 8021x - EAP Method</key>
+			<string>EAP Method</string>
+			<key>Setting 8021x - Tunnel Method</key>
+			<string>Tunnel Method</string>
+			<key>Setting 8021x - Session Resumption</key>
+			<string>Session Resumption</string>
+			<key>Setting 8021x - ID</key>
+			<string>ID</string>
+			<key>Setting 8021x - Password</key>
+			<string>Password</string>
+			<key>Setting 8021x - Clinet Cert</key>
+			<string>Client Certification</string>
+			<key>Setting 8021x - Domain Name</key>
+			<string>Domain Name</string>
+			<key>Setting 8021x - Use Client Certification</key>
+			<string>Use Client Certification</string>
+			<key>Setting 8021x - Certification Selection</key>
+			<string>Certification Selection</string>
+			<key>Setting 8021x - Private Key Selection</key>
+			<string>Private Key Selection</string>
+		</dict>
+	</array>
+	<key>zh-Hans</key>
+	<array>
+		<dict>
+			<key>AboutPage - Date</key>
+			<string>日期 : </string>
+			<key>AboutPage - EEPROM</key>
+			<string>EEPROM</string>
+			<key>AboutPage - MAC Address</key>
+			<string>实体地址</string>
+			<key>AboutPage - NIC Driver</key>
+			<string>驱动程序</string>
+			<key>AboutPage - Version</key>
+			<string>版本 : </string>
+			<key>AboutPage - Wireless Utility</key>
+			<string>工具程式版本</string>
+			<key>Advanced - Apply</key>
+			<string>套用</string>
+			<key>Advanced - Enable Tx Burst</key>
+			<string>Enable TX Burst</string>
+			<key>Advanced - Enable PSP XLink</key>
+			<string>Enable PSP XLink</string>
+			<key>Advanced - Country Region Code</key>
+			<string>选择你的国家区域码</string>
+			<key>Advanced - Msg1</key>
+			<string>频道设定会自动校正</string>
+			<key>Advanced - Radio Off</key>
+			<string>Radio Off</string>
+			<key>Advanced - Radio On</key>
+			<string>Radio On</string>
+			<key>Advanced - Tx Rate</key>
+			<string>传输速度</string>
+			<key>Advanced - Wireless Mode</key>
+			<string>无线方式</string>
+			<key>HiddenSSID - Cancel</key>
+			<string>取消</string>
+			<key>HiddenSSID - Msg1</key>
+			<string>请输入网络名称（SSID）</string>
+			<key>HiddenSSID - OK</key>
+			<string>确定</string>
+			<key>HiddenSSID - SSID</key>
+			<string>请输入网络名称</string>
+			<key>LinkStatusPage -  Link Speed Rx</key>
+			<string>接收</string>
+			<key>LinkStatusPage - Current Channel</key>
+			<string>频道</string>
+			<key>LinkStatusPage - Link Quality</key>
+			<string>连线品质</string>
+			<key>LinkStatusPage - Link Speed</key>
+			<string>连线速度 (Mbps)</string>
+			<key>LinkStatusPage - Link Speed Tx</key>
+			<string>传输</string>
+			<key>LinkStatusPage - Noise Level</key>
+			<string>杂讯强度</string>
+			<key>LinkStatusPage - Status</key>
+			<string>连线状态</string>
+			<key>LinkStatusPage - Strength1</key>
+			<string>讯号强度 1</string>
+			<key>LinkStatusPage - Strength2</key>
+			<string>讯号强度  2</string>
+			<key>LinkStatusPage - Strength3</key>
+			<string>讯号强度 3</string>
+			<key>LinkStatusPage - Throughput</key>
+			<string>传输效率 (Kbps)</string>
+			<key>LinkStatusPage - Throughput Rx</key>
+			<string>接收</string>
+			<key>LinkStatusPage - Throughput Tx</key>
+			<string>传输</string>
+			<key>LinkStatusPage - HT Info</key>
+			<string>HT情报</string>
+			<key>MainMenu - Itme1</key>
+			<string>关于　无线网络设定工具</string>
+			<key>MainMenu - Itme2</key>
+			<string>喜好设定...</string>
+			<key>MainMenu - Itme3</key>
+			<string>隐藏　无线网络设定工具</string>
+			<key>MainMenu - Itme4</key>
+			<string>显示全部</string>
+			<key>MainMenu - Itme5</key>
+			<string>离开　无线网络设定工具</string>
+			<key>MainWindow - About</key>
+			<string>信息</string>
+			<key>MainWindow - Advances</key>
+			<string>进阶</string>
+			<key>MainWindow - Link Status</key>
+			<string>连线状态</string>
+			<key>MainWindow - Profile</key>
+			<string>连线设定</string>
+			<key>MainWindow - Site Survey</key>
+			<string>无线网络</string>
+			<key>MainWindow - Statistics</key>
+			<string>统计</string>
+			<key>MainWindow - Title</key>
+			<string>无线网络设定工具</string>
+			<key>MainWindow - WPS</key>
+			<string>WPS</string>
+			<key>Profile Setting - Adhoc</key>
+			<string>802.11 Ad Hoc</string>
+			<key>Profile Setting - Authentication Security</key>
+			<string>验证 &amp; 加密</string>
+			<key>Profile Setting - CAM</key>
+			<string>CAM (Constantly Awake Mode)</string>
+			<key>Profile Setting - Channel</key>
+			<string>频道</string>
+			<key>Profile Setting - Fragment Threshold</key>
+			<string>使用　Fragment</string>
+			<key>Profile Setting - Infrastructure</key>
+			<string>Infrastructure</string>
+			<key>Profile Setting - Msg1</key>
+			<string>请输入连线设定名称</string>
+			<key>Profile Setting - Msg2</key>
+			<string>设输入网络名称（SSID）</string>
+			<key>Profile Setting - Msg3</key>
+			<string>存在相同的连线设定名称</string>
+			<key>Profile Setting - Msg4</key>
+			<string>确定要覆盖已存在的连线设定名称？</string>
+			<key>Profile Setting - Name</key>
+			<string>连线设定名称</string>
+			<key>Profile Setting - Network Type</key>
+			<string>网络型态</string>
+			<key>Profile Setting - PSM</key>
+			<string>Power Saving Mode</string>
+			<key>Profile Setting - RTS Threshold</key>
+			<string>使用　RTS</string>
+			<key>Profile Setting - SSID</key>
+			<string>网络名称（SSID）</string>
+			<key>Profile Setting - Save Mode</key>
+			<string>省电方式</string>
+			<key>Profile Setting - System Configuation</key>
+			<string>一般设定</string>
+			<key>Profile Setting - Tx Power</key>
+			<string>传输功率</string>
+			<key>ProfilePage - Activate</key>
+			<string>套用</string>
+			<key>ProfilePage - Add</key>
+			<string>增加</string>
+			<key>ProfilePage - Authentication</key>
+			<string>验证方式</string>
+			<key>ProfilePage - Channel</key>
+			<string>频道</string>
+			<key>ProfilePage - Delete</key>
+			<string>删除</string>
+			<key>ProfilePage - Edit</key>
+			<string>编辑</string>
+			<key>ProfilePage - Encryption</key>
+			<string>加密型态</string>
+			<key>ProfilePage - Msg1</key>
+			<string>没有选项</string>
+			<key>ProfilePage - Msg2</key>
+			<string>请选择要删除的项目</string>
+			<key>ProfilePage - Msg3</key>
+			<string>请选择要编辑的项目</string>
+			<key>ProfilePage - Msg4</key>
+			<string>装置不存在</string>
+			<key>ProfilePage - Msg5</key>
+			<string>请插入网卡后再设定连线设定.</string>
+			<key>ProfilePage - Name</key>
+			<string>连线设定名称</string>
+			<key>ProfilePage - Network</key>
+			<string>网络型态</string>
+			<key>ProfilePage - Profile List</key>
+			<string>---------------------------------------- 连线设定清单 ----------------------------------------</string>
+			<key>ProfilePage - SSID</key>
+			<string>网络名称</string>
+			<key>SiteSurveyPage - AP List</key>
+			<string>------------------------------------------- 网络清单 -------------------------------------------</string>
+			<key>SiteSurveyPage - Add Profile</key>
+			<string>加入连线设定</string>
+			<key>SiteSurveyPage - Authentication</key>
+			<string>验证方式</string>
+			<key>SiteSurveyPage - BSSID</key>
+			<string>BSSID</string>
+			<key>SiteSurveyPage - Channel</key>
+			<string>频道</string>
+			<key>SiteSurveyPage - Connect</key>
+			<string>连线</string>
+			<key>SiteSurveyPage - Encryption</key>
+			<string>加密方式</string>
+			<key>SiteSurveyPage - Msg1</key>
+			<string>没有选项</string>
+			<key>SiteSurveyPage - Msg2</key>
+			<string>请选择要连线的项目</string>
+			<key>SiteSurveyPage - Msg3</key>
+			<string>尚未支援　WPA-Enterprise / WPA2-Enterprise!!!</string>
+			<key>SiteSurveyPage - Msg4</key>
+			<string>连结</string>
+			<key>SiteSurveyPage - Network</key>
+			<string>网络型态</string>
+			<key>SiteSurveyPage - Rescan</key>
+			<string>重新扫描</string>
+			<key>SiteSurveyPage - SSID</key>
+			<string>网络名称</string>
+			<key>SiteSurveyPage - Signal</key>
+			<string>讯号强度</string>
+			<key>StatisticsPage - Counters</key>
+			<string>重设计数器</string>
+			<key>StatisticsPage - DFR</key>
+			<string>重覆接收的封包</string>
+			<key>StatisticsPage - FDDTO</key>
+			<string>资源不够而丢掉的封包</string>
+			<key>StatisticsPage - FFTRAAAR</key>
+			<string>经重送也未收到回覆的封包</string>
+			<key>StatisticsPage - FRS</key>
+			<string>成功接收且没错误的封包</string>
+			<key>StatisticsPage - FRWCE</key>
+			<string>成功接收且有CRC的封包</string>
+			<key>StatisticsPage - FTS</key>
+			<string>成功传送的封包</string>
+			<key>StatisticsPage - FTSAR</key>
+			<string>经重送且成功传送的封包</string>
+			<key>StatisticsPage - FTSWR</key>
+			<string>未经重送且成功传送的封包</string>
+			<key>StatisticsPage - RFFTRC</key>
+			<string>无法收到CTS的RTS</string>
+			<key>StatisticsPage - RFSRC</key>
+			<string>成功收到CTS的RTS</string>
+			<key>StatisticsPage - Receive</key>
+			<string>-- 接收统计 --</string>
+			<key>StatisticsPage - Transmit</key>
+			<string>-- 传送统计 --</string>
+			<key>WEP Setting - ASCII</key>
+			<string>ASCII</string>
+			<key>WEP Setting - Authentication Type</key>
+			<string>验证方式</string>
+			<key>WEP Setting - Cancel</key>
+			<string>取消</string>
+			<key>WEP Setting - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WEP Setting - Hexadecimal</key>
+			<string>Hexadecimal</string>
+			<key>WEP Setting - Key1</key>
+			<string>金钥 #1</string>
+			<key>WEP Setting - Key2</key>
+			<string>金钥 #2</string>
+			<key>WEP Setting - Key3</key>
+			<string>金钥 #3</string>
+			<key>WEP Setting - Key4</key>
+			<string>金钥 #4</string>
+			<key>WEP Setting - Msg1</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key should be more than 8 characters.</string>
+			<key>WEP Setting - Msg10</key>
+			<string>Invalid WEP key 4 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg11</key>
+			<string>Invalid WEP key 4 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg2</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key used key field should be 8~63 ASCII characters or 64 HEX characters.</string>
+			<key>WEP Setting - Msg3</key>
+			<string>Invalid WPA Pre-Shared key. WPA Pre-Shared key should be less than 64 characters.</string>
+			<key>WEP Setting - Msg4</key>
+			<string>Invalid WEP key 1 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg5</key>
+			<string>Invalid WEP key 1 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg6</key>
+			<string>Invalid WEP key 2 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg7</key>
+			<string>Invalid WEP key 2 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - Msg8</key>
+			<string>Invalid WEP key 3 length. WEP should be 10 or 26 hexadecimal digits.</string>
+			<key>WEP Setting - Msg9</key>
+			<string>Invalid WEP key 3 length. WEP should be 5 or 13 ASCII characters.</string>
+			<key>WEP Setting - OK</key>
+			<string>确定</string>
+			<key>WEP Setting - WEP Setting</key>
+			<string>金钥设定</string>
+			<key>WEP Setting - WPA Pre-Shared Key</key>
+			<string>WPA-PSK　金钥</string>
+			<key>WEP Setting - Open</key>
+			<string>Open</string>
+			<key>WEP Setting - Shared</key>
+			<string>Shared</string>
+			<key>WEP Setting - NONE</key>
+			<string>NONE</string>
+			<key>WPS Profile - Authentication Type</key>
+			<string>验证方式</string>
+			<key>WPS Profile - BSSID</key>
+			<string>BSSID</string>
+			<key>WPS Profile - Cancel</key>
+			<string>取消</string>
+			<key>WPS Profile - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WPS Profile - Key Index</key>
+			<string>金钥索引</string>
+			<key>WPS Profile - Key Length</key>
+			<string>金钥长度</string>
+			<key>WPS Profile - Key Material</key>
+			<string>金钥资料</string>
+			<key>WPS Profile - Msg1</key>
+			<string>Your configuration is not secure</string>
+			<key>WPS Profile - Msg2</key>
+			<string>Invalid WEP Key length. WEP Key should be 5 ascii characters</string>
+			<key>WPS Profile - Msg3</key>
+			<string>Invalid WEP Key length. WEP Key should be 10 hex digits</string>
+			<key>WPS Profile - Msg4</key>
+			<string>Invalid WEP Key length. WEP Key should be 13 ascii characters</string>
+			<key>WPS Profile - Msg5</key>
+			<string>Invalid WEP Key length. WEP Key should be 26 hex digits</string>
+			<key>WPS Profile - Msg6</key>
+			<string>Invalid WPA Pre-Shared key. WPA-PSK use field should be 64 hex digits.</string>
+			<key>WPS Profile - OK</key>
+			<string>确定</string>
+			<key>WPS Status - AP Setup Locked</key>
+			<string>锁定AP的连线设定</string>
+			<key>WPS Status - Authentication Type</key>
+			<string>验证方式</string>
+			<key>WPS Status - Config Methods</key>
+			<string>连线设定方式</string>
+			<key>WPS Status - Device Password ID</key>
+			<string>装置密码ID</string>
+			<key>WPS Status - Encryption Type</key>
+			<string>加密方式</string>
+			<key>WPS Status - OK</key>
+			<string>確定</string>
+			<key>WPS Status - RF Bands</key>
+			<string>射频频带</string>
+			<key>WPS Status - Selected Register</key>
+			<string>已选的受理注册机构</string>
+			<key>WPS Status - State</key>
+			<string>状态</string>
+			<key>WPS Status - UUIDE</key>
+			<string>全域唯一识别码元素</string>
+			<key>WPS Status - Version</key>
+			<string>版本</string>
+			<key>WPSPage - AP Authentication</key>
+			<string>认证方式</string>
+			<key>WPSPage - AP BSSID</key>
+			<string>BSSID</string>
+			<key>WPSPage - AP Channel</key>
+			<string>频道</string>
+			<key>WPSPage - AP Encryption</key>
+			<string>加密方式</string>
+			<key>WPSPage - AP ID</key>
+			<string>ID</string>
+			<key>WPSPage - AP List</key>
+			<string>---------------------------- WPS AP 列表 ----------------------------</string>
+			<key>WPSPage - AP SSID</key>
+			<string>网络名称</string>
+			<key>WPSPage - Associate IE</key>
+			<string>WPS 连结 IE</string>
+			<key>WPSPage - Automatically Select The AP</key>
+			<string>自动选择AP</string>
+			<key>WPSPage - Config Mode</key>
+			<string>连线设定方式</string>
+			<key>WPSPage - Connect</key>
+			<string>连线</string>
+			<key>WPSPage - Delete</key>
+			<string>删除</string>
+			<key>WPSPage - Disconnect</key>
+			<string>断线</string>
+			<key>WPSPage - Enrollee</key>
+			<string>登录者</string>
+			<key>WPSPage - Export Profile</key>
+			<string>汇出连线设定</string>
+			<key>WPSPage - Information</key>
+			<string>信息</string>
+			<key>WPSPage - Msg1</key>
+			<string>没有选项</string>
+			<key>WPSPage - Msg2</key>
+			<string>请选择项目</string>
+			<key>WPSPage - Msg3</key>
+			<string>Invalid Pin Code.</string>
+			<key>WPSPage - Msg4</key>
+			<string>Please re-enter it.</string>
+			<key>WPSPage - Msg5</key>
+			<string>Pin Code error.</string>
+			<key>WPSPage - Pin Code</key>
+			<string>Pin 码</string>
+			<key>WPSPage - Probe IE</key>
+			<string>WPS 探索 IE</string>
+			<key>WPSPage - Profile Authentication</key>
+			<string>验证方式</string>
+			<key>WPSPage - Profile Detail</key>
+			<string>连线设定内容</string>
+			<key>WPSPage - Profile Encryption</key>
+			<string>加密方式</string>
+			<key>WPSPage - Profile List</key>
+			<string>---------------------------- WPS 连线设定列表 ----------------------------</string>
+			<key>WPSPage - Profile Name</key>
+			<string>连线设定名称</string>
+			<key>WPSPage - Profile SSID</key>
+			<string>网络名称</string>
+			<key>WPSPage - Registrar</key>
+			<string>受理注册机构</string>
+			<key>WPSPage - Renew</key>
+			<string>更新</string>
+			<key>WPSPage - Rescan</key>
+			<string>重新扫描</string>
+			<key>WPSPage - Rotate</key>
+			<string>轮换</string>
+			<key>Setting 8021x - Title</key>
+			<string>802.1x</string>
+			<key>Setting 8021x - EAP Method</key>
+			<string>EAP Method</string>
+			<key>Setting 8021x - Tunnel Method</key>
+			<string>Tunnel Method</string>
+			<key>Setting 8021x - Session Resumption</key>
+			<string>Session Resumption</string>
+			<key>Setting 8021x - ID</key>
+			<string>ID</string>
+			<key>Setting 8021x - Password</key>
+			<string>Password</string>
+			<key>Setting 8021x - Clinet Cert</key>
+			<string>Client Certification</string>
+			<key>Setting 8021x - Domain Name</key>
+			<string>Domain Name</string>
+			<key>Setting 8021x - Use Client Certification</key>
+			<string>Use Client Certification</string>
+			<key>Setting 8021x - Certification Selection</key>
+			<string>Certification Selection</string>
+			<key>Setting 8021x - Private Key Selection</key>
+			<string>Private Key Selection</string>
+		</dict>
+	</array>
+</dict>
+</plist>
