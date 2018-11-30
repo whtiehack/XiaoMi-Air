@@ -1,4 +1,5 @@
 # XiaoMi NoteBook Air for macOS High Sierra & Sierra
+[English Guide](./README_EN.md)
 
 让你的小米AIR笔记本吃上黑苹果
 
