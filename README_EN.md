@@ -1,5 +1,7 @@
 # XiaoMi NoteBook Air for macOS High Sierra & Sierra
 
+[中文导游](./README.md)
+
 ## What's working
 
 * The touchpad is basically suitable for daily use
