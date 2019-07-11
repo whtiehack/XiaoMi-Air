@@ -2,6 +2,9 @@
 
 [中文导游](./README.md)
 
+### Only support 10.13.5.    Mi-Air 13.3 i5-6200u
+
+
 ## What's working
 
 * The touchpad is basically suitable for daily use
