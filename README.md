@@ -7,6 +7,9 @@
 
 ** 建议安装 的macOS版本:11.1   经过测试的:Mi-Air 13.3 i5-6200u **
 
+> clover的老版本在[这里](https://github.com/whtiehack/XiaoMi-Air/tree/clover-10.13)
+
+
 
 > 在[前人的基础](https://github.com/sakoula/XiaoMi-Air-6200U)上做的修改.
 
