@@ -11,7 +11,7 @@
 
 
 
-> 在[前人的基础](https://github.com/sakoula/XiaoMi-Air-6200U)上做的修改.
+> 在[sakoula/XiaoMi-Air-6200U](https://github.com/sakoula/XiaoMi-Air-6200U)的基础上做的一点修改.
 
 
 
