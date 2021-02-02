@@ -57,7 +57,17 @@
 * wifi驱动用的是 `AirportItlwm`。
 * 添加了一个驱动 `RestrictEvents.kext` (没发现有什么不同,可以取消)
 * 更改了 wifi和蓝牙 驱动的加载顺序
+* 添加 `IntelBluetoothInjector.kext` 修复蓝牙开关
 
+
+### 2021-02-02
+
+* opencore更新到0.6.5
+* AirportItlwm -> 1.2.0
+* AppleALC -> 1.5.6
+* CPUFriend -> 1.2.3
+* NVMeFix -> 1.0.5
+* WhateverGreen -> 1.4.6
 
 
 > 感谢 [sakoula](https://github.com/sakoula)
