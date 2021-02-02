@@ -5,7 +5,7 @@
 
 让你的小米AIR笔记本吃上黑苹果
 
-** 建议安装 的macOS版本:11.1   经过测试的:Mi-Air 13.3 i5-6200u **
+**建议安装 的macOS版本:11.1   经过测试的:Mi-Air 13.3 i5-6200u**
 
 > clover的老版本在[这里](https://github.com/whtiehack/XiaoMi-Air/tree/clover-10.13)
 
