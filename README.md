@@ -60,6 +60,10 @@
 * 添加 `IntelBluetoothInjector.kext` 修复蓝牙开关
 
 
+### 2021-03-14
+
+* opencore 更新到 0.6.7(一定要清除nvram)
+
 ### 2021-02-02
 
 * opencore更新到0.6.5
