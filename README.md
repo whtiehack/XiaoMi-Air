@@ -5,13 +5,13 @@
 
 让你的小米AIR笔记本吃上黑苹果
 
-** 建议安装 的macOS版本:11.1   经过测试的:Mi-Air 13.3 i5-6200u **
+**建议安装 的macOS版本:11.1   经过测试的:Mi-Air 13.3 i5-6200u**
 
 > clover的老版本在[这里](https://github.com/whtiehack/XiaoMi-Air/tree/clover-10.13)
 
 
 
-> 在[前人的基础](https://github.com/sakoula/XiaoMi-Air-6200U)上做的修改.
+> 在[sakoula/XiaoMi-Air-6200U](https://github.com/sakoula/XiaoMi-Air-6200U)的基础上做的一点修改.
 
 
 
@@ -57,7 +57,17 @@
 * wifi驱动用的是 `AirportItlwm`。
 * 添加了一个驱动 `RestrictEvents.kext` (没发现有什么不同,可以取消)
 * 更改了 wifi和蓝牙 驱动的加载顺序
+* 添加 `IntelBluetoothInjector.kext` 修复蓝牙开关
 
+
+### 2021-02-02
+
+* opencore更新到0.6.5
+* AirportItlwm -> 1.2.0
+* AppleALC -> 1.5.6
+* CPUFriend -> 1.2.3
+* NVMeFix -> 1.0.5
+* WhateverGreen -> 1.4.6
 
 
 > 感谢 [sakoula](https://github.com/sakoula)
