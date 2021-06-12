@@ -129,6 +129,10 @@
 		<key>Patch</key>
 		<array>
 			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 				<key>Comment</key>
 				<string>change Method(GPRW,2,N) to XPRW, pair with SSDT-GPRW.aml</string>
 				<key>Count</key>
@@ -155,6 +159,10 @@
 				<data></data>
 			</dict>
 			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 				<key>Comment</key>
 				<string>change _Q1C to ZQ1C (brightness hotkey) (SSDT-BKEY.dsl)</string>
 				<key>Count</key>
@@ -181,6 +189,10 @@
 				<data></data>
 			</dict>
 			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 				<key>Comment</key>
 				<string>change _Q1D to ZQ1D (brightness hotkey) (SSDT-BKEY.dsl)</string>
 				<key>Count</key>
@@ -207,6 +219,10 @@
 				<data></data>
 			</dict>
 			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 				<key>Comment</key>
 				<string>HPET _CRS to XCRS Rename (SSDTTime)</string>
 				<key>Count</key>
@@ -230,9 +246,13 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AA==</data>
+				<data></data>
 			</dict>
 			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 				<key>Comment</key>
 				<string>RTC IRQ 8 Patch (SSDTTime)</string>
 				<key>Count</key>
@@ -256,9 +276,13 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AA==</data>
+				<data></data>
 			</dict>
 			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 				<key>Comment</key>
 				<string>TIMR IRQ 0 Patch (SSDTTime)</string>
 				<key>Count</key>
@@ -282,9 +306,13 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AA==</data>
+				<data></data>
 			</dict>
 			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
 				<key>Comment</key>
 				<string>_PTS to ZPTS (FixShutdown-USB-SSDT.dsl)</string>
 				<key>Count</key>
@@ -366,6 +394,8 @@
 			<true/>
 			<key>EnableWriteUnprotector</key>
 			<true/>
+			<key>ForceBooterSignature</key>
+			<false/>
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
@@ -1144,6 +1174,8 @@
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
+			<key>ProvideCurrentCpuInfo</key>
+			<false/>
 			<key>SetApfsTrimTimeout</key>
 			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
@@ -1226,6 +1258,8 @@
 				<string>Not signed for security reasons</string>
 				<key>Enabled</key>
 				<false/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>CustomOS</string>
 				<key>Path</key>
@@ -1240,6 +1274,8 @@
 			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
+			<key>AllowToggleSip</key>
+			<false/>
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
@@ -1276,6 +1312,8 @@
 				<string>Not signed for security reasons</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>UEFI Shell</string>
 				<key>Path</key>
@@ -1294,6 +1332,8 @@
 				<string>Perform shutdown</string>
 				<key>Enabled</key>
 				<false/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>Shutdown</string>
 				<key>Path</key>
@@ -1312,6 +1352,8 @@
 				<string>ChipTune.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>ChipTune.efi</string>
 				<key>Path</key>
@@ -1330,6 +1372,8 @@
 				<string>CleanNvram.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>CleanNvram.efi</string>
 				<key>Path</key>
@@ -1348,6 +1392,8 @@
 				<string>VerifyMsrE2.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>VerifyMsrE2.efi</string>
 				<key>Path</key>
@@ -1366,6 +1412,8 @@
 				<string>modGRUBShell.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>modGRUBShell.efi</string>
 				<key>Path</key>
@@ -1384,6 +1432,8 @@
 				<string>CFGLock.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Flavour</key>
+				<string>Auto</string>
 				<key>Name</key>
 				<string>CFGLock.efi</string>
 				<key>Path</key>
@@ -1484,7 +1534,7 @@
 		<false/>
 		<key>Generic</key>
 		<dict>
-			<key>AdviseWindows</key>
+			<key>AdviseFeatures</key>
 			<false/>
 			<key>MaxBIOSVersion</key>
 			<false/>
@@ -1532,6 +1582,21 @@
 			<integer>0</integer>
 			<key>MinVersion</key>
 			<integer>0</integer>
+		</dict>
+		<key>AppleInput</key>
+		<dict>
+			<key>AppleEvent</key>
+			<string>Auto</string>
+			<key>CustomDelays</key>
+			<false/>
+			<key>KeyInitialDelay</key>
+			<integer>50</integer>
+			<key>KeySubsequentDelay</key>
+			<integer>5</integer>
+			<key>PointerSpeedDiv</key>
+			<integer>1</integer>
+			<key>PointerSpeedMul</key>
+			<integer>1</integer>
 		</dict>
 		<key>Audio</key>
 		<dict>
@@ -1593,7 +1658,7 @@
 			<key>ForceResolution</key>
 			<false/>
 			<key>GopPassThrough</key>
-			<false/>
+			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
@@ -1619,7 +1684,7 @@
 			<false/>
 			<key>AppleDebugLog</key>
 			<false/>
-			<key>AppleEvent</key>
+			<key>AppleEg2Info</key>
 			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
@@ -1656,12 +1721,18 @@
 			<false/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
+			<key>EnableVectorAcceleration</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForgeUefiSupport</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
 			<true/>
+			<key>ReloadOptionRoms</key>
+			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>TscSyncTimeout</key>
