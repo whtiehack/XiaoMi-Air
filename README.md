@@ -60,6 +60,22 @@
 * 添加 `IntelBluetoothInjector.kext` 修复蓝牙开关
 
 
+
+### 2021-06-12
+
+> 启动主题丢失,暂时没时间研究哈. 有强迫症的不要更新. 更新完启动主题会变成文字
+
+* opencore 更新到 0.7.0(一定要清除nvram)
+* AirportItlwm -> 1.3.0
+* AppleALC -> 1.6.1
+* Lilu -> 1.5.3
+* NVMeFix -> 1.0.8
+* VirtualSMC -> 1.2.4
+* VoodooInput -> 1.1.3
+* VoodooPS2Controller -> 2.2.3
+* WhateverGreen -> 1.5.0
+
+
 ### 2021-03-14
 
 * opencore 更新到 0.6.7(一定要清除nvram)
