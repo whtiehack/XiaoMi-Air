@@ -52,6 +52,9 @@
 * 记得重置 Nvram
 * 双系统没有问题. 安装不会影响现有的windows系统.注意EFI里不要删除 `Microsoft`
 
+> 另一个网友的安装教程 https://blog.starudream.cn/2021/11/01/hack-mac-in-mi-notebook-air-gen1/
+
+
 ## 与 [sakoula](https://github.com/sakoula/XiaoMi-Air-6200U) 原始版本的区别
 
 * wifi驱动用的是 `AirportItlwm`。
